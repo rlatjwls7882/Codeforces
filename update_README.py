@@ -42,13 +42,13 @@ def cf_get(method, params):
     raise RuntimeError("Codeforces API request failed")
 
 
-def get_submissions(handle):
+def get_submissions():
     submissions = []
     start = 1
 
     while True:
         result = cf_get("user.status", {
-            "handle": handle,
+            "handle": HANDLE,
             "from": start,
             "count": PAGE_SIZE
         })
@@ -72,8 +72,8 @@ def problem_key(problem):
     )
 
 
-def get_solved_problems(handle):
-    submissions = get_submissions(handle)
+def get_solved_problems():
+    submissions = get_submissions()
     solved = {}
 
     for sub in submissions:
@@ -148,23 +148,7 @@ def get_solution_path(problem):
     }
 
     patterns = [
-        f"{contest_id}{index}.*",
-        f"{contest_id}_{index}.*",
-        f"{contest_id}-{index}.*",
         f"{contest_id}/{index}.*",
-        f"{contest_id}/{index}/*",
-
-        f"Codeforces/{contest_id}{index}.*",
-        f"Codeforces/{contest_id}_{index}.*",
-        f"Codeforces/{contest_id}-{index}.*",
-        f"Codeforces/{contest_id}/{index}.*",
-        f"Codeforces/{contest_id}/{index}/*",
-
-        f"**/{contest_id}{index}.*",
-        f"**/{contest_id}_{index}.*",
-        f"**/{contest_id}-{index}.*",
-        f"**/{contest_id}/{index}.*",
-        f"**/{contest_id}/{index}/*",
     ]
 
     files = []
@@ -226,14 +210,12 @@ def get_table(problems):
         title = md_escape(problem["name"])
         rating = get_problem_rating(problem["rating"])
         path = get_solution_path(problem)
-
         table += f"| [{no}]({url}) | {title} | {rating} | {path} |\n"
-
     return table
 
 
 if __name__ == "__main__":
-    problems = get_solved_problems(HANDLE)
+    problems = get_solved_problems()
     problems.sort(key=sort_key)
 
     with open(README_PATH, "w", encoding="utf-8") as f:
