@@ -198,10 +198,9 @@ def sort_key(problem):
     return (contest_id, index)
 
 
-def get_header(handle, solved_count):
-    header = '<div align="center">\n\n'
-    header += "# Codeforces\n\n"
-    header += f"### Handle: [{handle}](https://codeforces.com/profile/{handle})\n\n"
+def get_header(solved_count):
+    header = "# Codeforces\n\n"
+    header += f"[![CodeForces Profile](https://cf.leed.at?id={HANDLE})](https://codeforces.com/profile/{HANDLE})\n\n"
     header += f"### Solved: {solved_count}\n\n"
     header += "자동으로 생성된 Codeforces solved problem 목록입니다.\n\n"
     return header
@@ -231,6 +230,5 @@ if __name__ == "__main__":
     problems.sort(key=sort_key)
 
     with open(README_PATH, "w", encoding="utf-8") as f:
-        f.write(get_header(HANDLE, len(problems)))
+        f.write(get_header(len(problems)))
         f.write(get_table(problems))
-        f.write("</div>\n")
