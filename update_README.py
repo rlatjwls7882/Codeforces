@@ -207,8 +207,7 @@ def sort_key(problem):
 
 
 def get_header(solved_count):
-    header = '<div align="center">\n\n'
-    header += "# Codeforces\n\n"
+    header = "# Codeforces Solutions\n\n"
     header += f"[![CodeForces Profile](https://cf.leed.at?id={HANDLE})](https://codeforces.com/profile/{HANDLE})\n\n"
     header += f"### Solved: {solved_count}\n\n"
     return header
@@ -240,4 +239,3 @@ if __name__ == "__main__":
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(get_header(len(problems)))
         f.write(get_table(problems))
-        f.write("</div>\n")
