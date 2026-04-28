@@ -4,9 +4,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 329
-
-자동으로 생성된 Codeforces solved problem 목록입니다.
+### Solved: 324
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -334,9 +332,4 @@
 | [2193F](https://codeforces.com/problemset/problem/2193/F) | Pizza Delivery | 1600 | [C++](./2193/F.cc) |
 | [2195A](https://codeforces.com/problemset/problem/2195/A) | Sieve of Erato67henes | 800 | [C++](./2195/A.cpp) |
 | [2195B](https://codeforces.com/problemset/problem/2195/B) | Heapify 1 | 900 | [C++](./2195/B.cpp) |
-| [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
-| [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
-| [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
-| [103960I](https://codeforces.com/gym/103960/problem/I) | Intercepting Information | Unrated |  |
-| [103960J](https://codeforces.com/gym/103960/problem/J) | Playing 23 | Unrated |  |
 </div>
