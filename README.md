@@ -1,6 +1,4 @@
-<div align="center">
-
-# Codeforces
+# Codeforces Solutions
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
@@ -332,4 +330,3 @@
 | [2193F](https://codeforces.com/problemset/problem/2193/F) | Pizza Delivery | 1600 | [C++](./2193/F.cc) |
 | [2195A](https://codeforces.com/problemset/problem/2195/A) | Sieve of Erato67henes | 800 | [C++](./2195/A.cpp) |
 | [2195B](https://codeforces.com/problemset/problem/2195/B) | Heapify 1 | 900 | [C++](./2195/B.cpp) |
-</div>
