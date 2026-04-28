@@ -81,11 +81,18 @@ def get_solved_problems(handle):
             continue
 
         problem = sub["problem"]
+        contest_id = problem.get("contestId")
+
+        # Gym 제외
+        # Codeforces Gym은 보통 contestId가 100000 이상
+        if contest_id is None or contest_id >= 100000:
+            continue
+
         key = problem_key(problem)
 
         if key not in solved:
             solved[key] = {
-                "contestId": problem.get("contestId"),
+                "contestId": contest_id,
                 "index": problem.get("index", ""),
                 "name": problem.get("name", ""),
                 "rating": problem.get("rating"),
@@ -93,6 +100,7 @@ def get_solved_problems(handle):
                 "language": sub.get("programmingLanguage", ""),
                 "time": sub.get("creationTimeSeconds", 0)
             }
+
     return list(solved.values())
 
 
@@ -103,7 +111,7 @@ def get_problem_url(problem):
     if contest_id is None:
         return "https://codeforces.com/problemset"
 
-    # Gym 문제는 보통 contestId가 100000 이상이다.
+    # Gym 문제는 보통 contestId가 100000 이상
     if contest_id >= 100000:
         return f"https://codeforces.com/gym/{contest_id}/problem/{index}"
 
@@ -203,7 +211,6 @@ def get_header(solved_count):
     header += "# Codeforces\n\n"
     header += f"[![CodeForces Profile](https://cf.leed.at?id={HANDLE})](https://codeforces.com/profile/{HANDLE})\n\n"
     header += f"### Solved: {solved_count}\n\n"
-    header += "자동으로 생성된 Codeforces solved problem 목록입니다.\n\n"
     return header
 
 
