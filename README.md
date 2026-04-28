@@ -208,9 +208,9 @@
 | [1933C](https://codeforces.com/problemset/problem/1933/C) | Turtle Fingers: Count the Values of k | 1100 | [Java](./1933/C.java) |
 | [1933D](https://codeforces.com/problemset/problem/1933/D) | Turtle Tenacity: Continual Mods | 1200 | [Java](./1933/D.java) |
 | [1935A](https://codeforces.com/problemset/problem/1935/A) | Entertainment in MAC | 800 | [Java](./1935/A.java) |
-| [1938C](https://codeforces.com/problemset/problem/1938/C) | Bit Counting Sequence | 1900 | [C++](./1938/C.cc) |
+| [1938C](https://codeforces.com/problemset/problem/1938/C) | Bit Counting Sequence | 1900 |  |
 | [1938H](https://codeforces.com/problemset/problem/1938/H) | Pho Restaurant | 1600 |  |
-| [1938J](https://codeforces.com/problemset/problem/1938/J) | There and Back Again | 2100 |  |
+| [1938J](https://codeforces.com/problemset/problem/1938/J) | There and Back Again | 2100 | [C++](./1938/J.cc) |
 | [1941A](https://codeforces.com/problemset/problem/1941/A) | Rudolf and the Ticket | 800 | [C++](./1941/A.cc) |
 | [1950A](https://codeforces.com/problemset/problem/1950/A) | Stair, Peak, or Neither? | 800 | [C++](./1950/A.cc) |
 | [1950B](https://codeforces.com/problemset/problem/1950/B) | Upscaling | 800 | [C++](./1950/B.cc) |
