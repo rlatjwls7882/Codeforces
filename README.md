@@ -260,14 +260,14 @@
 | [2103B](https://codeforces.com/problemset/problem/2103/B) | Binary Typewriter | 1100 | [C++](./2103/B.cpp) |
 | [2103C](https://codeforces.com/problemset/problem/2103/C) | Median Splits | 1600 | [C++](./2103/C.cpp) |
 | [2103D](https://codeforces.com/problemset/problem/2103/D) | Local Construction | 2000 | [C++](./2103/D.cpp) |
-| [2131A](https://codeforces.com/problemset/problem/2131/A) | Lever | 800 |  |
-| [2131B](https://codeforces.com/problemset/problem/2131/B) | Alternating Series | 800 |  |
-| [2131C](https://codeforces.com/problemset/problem/2131/C) | Make it Equal | 1100 |  |
-| [2131D](https://codeforces.com/problemset/problem/2131/D) | Arboris Contractio | 1400 |  |
-| [2131E](https://codeforces.com/problemset/problem/2131/E) | Adjacent XOR | 1400 |  |
-| [2133A](https://codeforces.com/problemset/problem/2133/A) | Redstone? | 800 |  |
-| [2133B](https://codeforces.com/problemset/problem/2133/B) | Villagers | 800 |  |
-| [2133C](https://codeforces.com/problemset/problem/2133/C) | The Nether | 1400 |  |
+| [2131A](https://codeforces.com/problemset/problem/2131/A) | Lever | 800 | [C++](./2131/A.cc) |
+| [2131B](https://codeforces.com/problemset/problem/2131/B) | Alternating Series | 800 | [C++](./2131/B.cc) |
+| [2131C](https://codeforces.com/problemset/problem/2131/C) | Make it Equal | 1100 | [C++](./2131/C.cc) |
+| [2131D](https://codeforces.com/problemset/problem/2131/D) | Arboris Contractio | 1400 | [C++](./2131/D.cc) |
+| [2131E](https://codeforces.com/problemset/problem/2131/E) | Adjacent XOR | 1400 | [C++](./2131/E.cc) |
+| [2133A](https://codeforces.com/problemset/problem/2133/A) | Redstone? | 800 | [C++](./2133/A.cc) |
+| [2133B](https://codeforces.com/problemset/problem/2133/B) | Villagers | 800 | [C++](./2133/B.cc) |
+| [2133C](https://codeforces.com/problemset/problem/2133/C) | The Nether | 1400 | [C++](./2133/C.cc) |
 | [2134A](https://codeforces.com/problemset/problem/2134/A) | Painting With Two Colors | 800 | [C++](./2134/A.cpp) |
 | [2134B](https://codeforces.com/problemset/problem/2134/B) | Add 0 or K | 1200 | [C++](./2134/B.cpp) |
 | [2134C](https://codeforces.com/problemset/problem/2134/C) | Even Larger | 1200 | [C++](./2134/C.cpp) |
@@ -323,7 +323,7 @@
 | [2184E](https://codeforces.com/problemset/problem/2184/E) | Exquisite Array | 1800 | [C++](./2184/E.cc) |
 | [2189A](https://codeforces.com/problemset/problem/2189/A) | Table with Numbers | 800 | [C++](./2189/A.cc) |
 | [2189B](https://codeforces.com/problemset/problem/2189/B) | The Curse of the Frog | 1200 | [C++](./2189/B.cc) |
-| [2189C1](https://codeforces.com/problemset/problem/2189/C1) | XOR Convenience (Easy Version) | 1300 |  |
+| [2189C1](https://codeforces.com/problemset/problem/2189/C1) | XOR Convenience (Easy Version) | 1300 | [C++](./2189/C1.cc) |
 | [2193A](https://codeforces.com/problemset/problem/2193/A) | DBMB and the Array | 800 | [C++](./2193/A.cc) |
 | [2193B](https://codeforces.com/problemset/problem/2193/B) | Reverse a Permutation | 800 | [C++](./2193/B.cc) |
 | [2193C](https://codeforces.com/problemset/problem/2193/C) | Replace and Sum | 1000 | [C++](./2193/C.cc) |
