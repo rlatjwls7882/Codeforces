@@ -126,8 +126,13 @@ def get_problem_rating(rating):
     return str(rating) if rating is not None else "Unrated"
 
 
+def get_contest_path(contest_id):
+    contest_id = int(contest_id)
+    return f"{contest_id // 1000}xxx/{contest_id:04d}"
+
+
 def get_solution_path(problem):
-    contest_id = str(problem["contestId"])
+    contest_id = int(problem["contestId"])
     index = str(problem["index"])
 
     ext_name = {
@@ -148,7 +153,7 @@ def get_solution_path(problem):
     }
 
     patterns = [
-        f"{contest_id}/{index}.*",
+        f"{get_contest_path(contest_id)}/{index}.*",
     ]
 
     files = []
@@ -158,15 +163,19 @@ def get_solution_path(problem):
         for file in glob.glob(pattern, recursive=True):
             if os.path.isdir(file):
                 continue
+
             name = os.path.basename(file)
             if name.lower() in {"readme.md", "license"}:
                 continue
+
             ext = os.path.splitext(file)[1].lower()
             if ext == ".md":
                 continue
+
             if file not in seen:
                 seen.add(file)
                 files.append(file)
+
     files.sort()
 
     result = ""
