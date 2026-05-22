@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 324
+### Solved: 325
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -319,6 +319,7 @@
 | [2184C](https://codeforces.com/problemset/problem/2184/C) | Huge Pile | 1100 | [C++](./2184/C.cc) |
 | [2184D](https://codeforces.com/problemset/problem/2184/D) | Unfair Game | 1600 | [C++](./2184/D.cc) |
 | [2184E](https://codeforces.com/problemset/problem/2184/E) | Exquisite Array | 1800 | [C++](./2184/E.cc) |
+| [2185D](https://codeforces.com/problemset/problem/2185/D) | OutOfMemoryError | 1100 | [C++](./2185/D.cpp) |
 | [2189A](https://codeforces.com/problemset/problem/2189/A) | Table with Numbers | 800 | [C++](./2189/A.cc) |
 | [2189B](https://codeforces.com/problemset/problem/2189/B) | The Curse of the Frog | 1200 | [C++](./2189/B.cc) |
 | [2189C1](https://codeforces.com/problemset/problem/2189/C1) | XOR Convenience (Easy Version) | 1300 | [C++](./2189/C1.cc) |
