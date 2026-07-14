@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 333
+### Solved: 334
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -339,3 +339,4 @@
 | [2246B](https://codeforces.com/problemset/problem/2246/B) | ezraft and Array | Unrated | [C++](./2xxx/2246/B.cpp) |
 | [2246C](https://codeforces.com/problemset/problem/2246/C) | 0mar and Alternating Sums | Unrated | [C++](./2xxx/2246/C.cpp) |
 | [2246D](https://codeforces.com/problemset/problem/2246/D) | diss_quack and Array Game | Unrated | [C++](./2xxx/2246/D.cpp) |
+| [2246E](https://codeforces.com/problemset/problem/2246/E) | lce4113 and Security Game | Unrated | [C++](./2xxx/2246/E.cpp) |
