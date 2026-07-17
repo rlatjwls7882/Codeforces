@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 337
+### Solved: 338
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -338,6 +338,7 @@
 | [2245A](https://codeforces.com/problemset/problem/2245/A) | Who Watches the Watchpig? | Unrated | [C++](./2xxx/2245/A.cpp) |
 | [2245B](https://codeforces.com/problemset/problem/2245/B) | Delete and Concatenate | Unrated | [C++](./2xxx/2245/B.cpp) |
 | [2245C](https://codeforces.com/problemset/problem/2245/C) | MEXOR | Unrated | [C++](./2xxx/2245/C.cpp) |
+| [2245D1](https://codeforces.com/problemset/problem/2245/D1) | Construct an Array (Easy Version) | Unrated | [C++](./2xxx/2245/D1.cpp) |
 | [2246A](https://codeforces.com/problemset/problem/2246/A) | farmpiggie and Subset Sum | Unrated | [C++](./2xxx/2246/A.cpp) |
 | [2246B](https://codeforces.com/problemset/problem/2246/B) | ezraft and Array | Unrated | [C++](./2xxx/2246/B.cpp) |
 | [2246C](https://codeforces.com/problemset/problem/2246/C) | 0mar and Alternating Sums | Unrated | [C++](./2xxx/2246/C.cpp) |
