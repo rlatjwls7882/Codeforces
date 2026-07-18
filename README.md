@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 339
+### Solved: 343
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -345,3 +345,7 @@
 | [2246C](https://codeforces.com/problemset/problem/2246/C) | 0mar and Alternating Sums | Unrated | [C++](./2xxx/2246/C.cpp) |
 | [2246D](https://codeforces.com/problemset/problem/2246/D) | diss_quack and Array Game | Unrated | [C++](./2xxx/2246/D.cpp) |
 | [2246E](https://codeforces.com/problemset/problem/2246/E) | lce4113 and Security Game | Unrated | [C++](./2xxx/2246/E.cpp) |
+| [2247A](https://codeforces.com/problemset/problem/2247/A) | Zero Sum | Unrated | [C++](./2xxx/2247/A.cpp) |
+| [2247B](https://codeforces.com/problemset/problem/2247/B) | Yet Another Constructive | Unrated | [C++](./2xxx/2247/B.cpp) |
+| [2247C](https://codeforces.com/problemset/problem/2247/C) | Inversion of a Subsequence | Unrated | [C++](./2xxx/2247/C.cpp) |
+| [2247D1](https://codeforces.com/problemset/problem/2247/D1) | XOR Sorting (Easy Version) | Unrated | [C++](./2xxx/2247/D1.cpp) |
