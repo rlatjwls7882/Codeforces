@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 346
+### Solved: 349
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -349,6 +349,9 @@
 | [2247B](https://codeforces.com/problemset/problem/2247/B) | Yet Another Constructive | Unrated | [C++](./2xxx/2247/B.cpp) |
 | [2247C](https://codeforces.com/problemset/problem/2247/C) | Inversion of a Subsequence | Unrated | [C++](./2xxx/2247/C.cpp) |
 | [2247D1](https://codeforces.com/problemset/problem/2247/D1) | XOR Sorting (Easy Version) | Unrated | [C++](./2xxx/2247/D1.cpp) |
+| [2248A](https://codeforces.com/problemset/problem/2248/A) | You Delete, I Delete | Unrated |  |
+| [2248B](https://codeforces.com/problemset/problem/2248/B) | Merge to Match | Unrated |  |
+| [2248C](https://codeforces.com/problemset/problem/2248/C) | Maximize the Score | Unrated |  |
 | [2250A](https://codeforces.com/problemset/problem/2250/A) | Threshold Movement | Unrated | [C++](./2xxx/2250/A.cpp) |
 | [2250B](https://codeforces.com/problemset/problem/2250/B) | String Construction | Unrated | [C++](./2xxx/2250/B.cpp) |
 | [2250C](https://codeforces.com/problemset/problem/2250/C) | Rank Subsequence | Unrated | [C++](./2xxx/2250/C.cpp) |
