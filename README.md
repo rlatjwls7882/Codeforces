@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 354
+### Solved: 355
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -360,3 +360,4 @@
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
 | [103960I](https://codeforces.com/gym/103960/problem/I) | Intercepting Information | Unrated |  |
 | [103960J](https://codeforces.com/gym/103960/problem/J) | Playing 23 | Unrated |  |
+| [104252D](https://codeforces.com/gym/104252/problem/D) | Daily Trips | Unrated | [C++](./104xxx/104252/D.cpp) |
