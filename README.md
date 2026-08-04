@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 349
+### Solved: 354
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -335,23 +335,28 @@
 | [2218A](https://codeforces.com/problemset/problem/2218/A) | The 67th Integer Problem | 800 | [C++](./2xxx/2218/A.cpp) |
 | [2218B](https://codeforces.com/problemset/problem/2218/B) | The 67th 6-7 Integer Problem | 800 | [C++](./2xxx/2218/B.cpp) |
 | [2218C](https://codeforces.com/problemset/problem/2218/C) | The 67th Permutation Problem | 800 | [C++](./2xxx/2218/C.cpp) |
-| [2245A](https://codeforces.com/problemset/problem/2245/A) | Who Watches the Watchpig? | Unrated | [C++](./2xxx/2245/A.cpp) |
-| [2245B](https://codeforces.com/problemset/problem/2245/B) | Delete and Concatenate | Unrated | [C++](./2xxx/2245/B.cpp) |
-| [2245C](https://codeforces.com/problemset/problem/2245/C) | MEXOR | Unrated | [C++](./2xxx/2245/C.cpp) |
-| [2245D1](https://codeforces.com/problemset/problem/2245/D1) | Construct an Array (Easy Version) | Unrated | [C++](./2xxx/2245/D1.cpp) |
-| [2245D2](https://codeforces.com/problemset/problem/2245/D2) | Construct an Array (Hard Version) | Unrated | [C++](./2xxx/2245/D2.cpp) |
-| [2246A](https://codeforces.com/problemset/problem/2246/A) | farmpiggie and Subset Sum | Unrated | [C++](./2xxx/2246/A.cpp) |
-| [2246B](https://codeforces.com/problemset/problem/2246/B) | ezraft and Array | Unrated | [C++](./2xxx/2246/B.cpp) |
-| [2246C](https://codeforces.com/problemset/problem/2246/C) | 0mar and Alternating Sums | Unrated | [C++](./2xxx/2246/C.cpp) |
-| [2246D](https://codeforces.com/problemset/problem/2246/D) | diss_quack and Array Game | Unrated | [C++](./2xxx/2246/D.cpp) |
-| [2246E](https://codeforces.com/problemset/problem/2246/E) | lce4113 and Security Game | Unrated | [C++](./2xxx/2246/E.cpp) |
-| [2247A](https://codeforces.com/problemset/problem/2247/A) | Zero Sum | Unrated | [C++](./2xxx/2247/A.cpp) |
-| [2247B](https://codeforces.com/problemset/problem/2247/B) | Yet Another Constructive | Unrated | [C++](./2xxx/2247/B.cpp) |
-| [2247C](https://codeforces.com/problemset/problem/2247/C) | Inversion of a Subsequence | Unrated | [C++](./2xxx/2247/C.cpp) |
-| [2247D1](https://codeforces.com/problemset/problem/2247/D1) | XOR Sorting (Easy Version) | Unrated | [C++](./2xxx/2247/D1.cpp) |
-| [2248A](https://codeforces.com/problemset/problem/2248/A) | You Delete, I Delete | Unrated | [C++](./2xxx/2248/A.cpp) |
-| [2248B](https://codeforces.com/problemset/problem/2248/B) | Merge to Match | Unrated | [C++](./2xxx/2248/B.cpp) |
-| [2248C](https://codeforces.com/problemset/problem/2248/C) | Maximize the Score | Unrated | [C++](./2xxx/2248/C.cpp) |
-| [2250A](https://codeforces.com/problemset/problem/2250/A) | Threshold Movement | Unrated | [C++](./2xxx/2250/A.cpp) |
-| [2250B](https://codeforces.com/problemset/problem/2250/B) | String Construction | Unrated | [C++](./2xxx/2250/B.cpp) |
-| [2250C](https://codeforces.com/problemset/problem/2250/C) | Rank Subsequence | Unrated | [C++](./2xxx/2250/C.cpp) |
+| [2245A](https://codeforces.com/problemset/problem/2245/A) | Who Watches the Watchpig? | 800 | [C++](./2xxx/2245/A.cpp) |
+| [2245B](https://codeforces.com/problemset/problem/2245/B) | Delete and Concatenate | 1100 | [C++](./2xxx/2245/B.cpp) |
+| [2245C](https://codeforces.com/problemset/problem/2245/C) | MEXOR | 1400 | [C++](./2xxx/2245/C.cpp) |
+| [2245D1](https://codeforces.com/problemset/problem/2245/D1) | Construct an Array (Easy Version) | 1700 | [C++](./2xxx/2245/D1.cpp) |
+| [2245D2](https://codeforces.com/problemset/problem/2245/D2) | Construct an Array (Hard Version) | 2000 | [C++](./2xxx/2245/D2.cpp) |
+| [2246A](https://codeforces.com/problemset/problem/2246/A) | farmpiggie and Subset Sum | 800 | [C++](./2xxx/2246/A.cpp) |
+| [2246B](https://codeforces.com/problemset/problem/2246/B) | ezraft and Array | 900 | [C++](./2xxx/2246/B.cpp) |
+| [2246C](https://codeforces.com/problemset/problem/2246/C) | 0mar and Alternating Sums | 1400 | [C++](./2xxx/2246/C.cpp) |
+| [2246D](https://codeforces.com/problemset/problem/2246/D) | diss_quack and Array Game | 1900 | [C++](./2xxx/2246/D.cpp) |
+| [2246E](https://codeforces.com/problemset/problem/2246/E) | lce4113 and Security Game | 2600 | [C++](./2xxx/2246/E.cpp) |
+| [2247A](https://codeforces.com/problemset/problem/2247/A) | Zero Sum | 800 | [C++](./2xxx/2247/A.cpp) |
+| [2247B](https://codeforces.com/problemset/problem/2247/B) | Yet Another Constructive | 900 | [C++](./2xxx/2247/B.cpp) |
+| [2247C](https://codeforces.com/problemset/problem/2247/C) | Inversion of a Subsequence | 1100 | [C++](./2xxx/2247/C.cpp) |
+| [2247D1](https://codeforces.com/problemset/problem/2247/D1) | XOR Sorting (Easy Version) | 1500 | [C++](./2xxx/2247/D1.cpp) |
+| [2248A](https://codeforces.com/problemset/problem/2248/A) | You Delete, I Delete | 800 | [C++](./2xxx/2248/A.cpp) |
+| [2248B](https://codeforces.com/problemset/problem/2248/B) | Merge to Match | 1000 | [C++](./2xxx/2248/B.cpp) |
+| [2248C](https://codeforces.com/problemset/problem/2248/C) | Maximize the Score | 1300 | [C++](./2xxx/2248/C.cpp) |
+| [2250A](https://codeforces.com/problemset/problem/2250/A) | Threshold Movement | 800 | [C++](./2xxx/2250/A.cpp) |
+| [2250B](https://codeforces.com/problemset/problem/2250/B) | String Construction | 1000 | [C++](./2xxx/2250/B.cpp) |
+| [2250C](https://codeforces.com/problemset/problem/2250/C) | Rank Subsequence | 1300 | [C++](./2xxx/2250/C.cpp) |
+| [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
+| [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
+| [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
+| [103960I](https://codeforces.com/gym/103960/problem/I) | Intercepting Information | Unrated |  |
+| [103960J](https://codeforces.com/gym/103960/problem/J) | Playing 23 | Unrated |  |
