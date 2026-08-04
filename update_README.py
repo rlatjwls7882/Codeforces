@@ -83,10 +83,10 @@ def get_solved_problems():
         problem = sub["problem"]
         contest_id = problem.get("contestId")
 
-        # Gym 제외
-        # Codeforces Gym은 보통 contestId가 100000 이상
-        if contest_id is None or contest_id >= 100000:
-            continue
+        # # Gym 제외
+        # # Codeforces Gym은 보통 contestId가 100000 이상
+        # if contest_id is None or contest_id >= 100000:
+        #     continue
 
         key = problem_key(problem)
 
