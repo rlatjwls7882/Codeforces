@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 361
+### Solved: 356
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -355,15 +355,10 @@
 | [2250A](https://codeforces.com/problemset/problem/2250/A) | Threshold Movement | 800 | [C++](./2xxx/2250/A.cpp) |
 | [2250B](https://codeforces.com/problemset/problem/2250/B) | String Construction | 1000 | [C++](./2xxx/2250/B.cpp) |
 | [2250C](https://codeforces.com/problemset/problem/2250/C) | Rank Subsequence | 1300 | [C++](./2xxx/2250/C.cpp) |
-| [2254A](https://codeforces.com/problemset/problem/2254/A) | Riptide | Unrated | [C++](./2xxx/2254/A.cpp) |
-| [2254B](https://codeforces.com/problemset/problem/2254/B) | Evanescent | Unrated | [C++](./2xxx/2254/B.cpp) |
-| [2254C1](https://codeforces.com/problemset/problem/2254/C1) | Marenol (easy version) | Unrated | [C++](./2xxx/2254/C1.cpp) |
-| [2254C2](https://codeforces.com/problemset/problem/2254/C2) | Marenol (hard version) | Unrated | [C++](./2xxx/2254/C2.cpp) |
-| [2254D](https://codeforces.com/problemset/problem/2254/D) | Silhouette | Unrated | [C++](./2xxx/2254/D.cpp) |
-| [2254E](https://codeforces.com/problemset/problem/2254/E) | Chronostasis | Unrated | [C++](./2xxx/2254/E.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
 | [103960I](https://codeforces.com/gym/103960/problem/I) | Intercepting Information | Unrated |  |
 | [103960J](https://codeforces.com/gym/103960/problem/J) | Playing 23 | Unrated |  |
 | [104252D](https://codeforces.com/gym/104252/problem/D) | Daily Trips | Unrated | [C++](./104xxx/104252/D.cpp) |
+| [104252I](https://codeforces.com/gym/104252/problem/I) | Italian Calzone & Pasta Corner | Unrated | [C++](./104xxx/104252/I.cpp) |
