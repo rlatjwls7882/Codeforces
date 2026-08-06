@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 365
+### Solved: 366
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -366,6 +366,7 @@
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
 | [103960I](https://codeforces.com/gym/103960/problem/I) | Intercepting Information | Unrated |  |
 | [103960J](https://codeforces.com/gym/103960/problem/J) | Playing 23 | Unrated |  |
+| [104252A](https://codeforces.com/gym/104252/problem/A) | Asking for Money | Unrated | [C++](./104xxx/104252/A.cpp) |
 | [104252C](https://codeforces.com/gym/104252/problem/C) | City Folding | Unrated | [C++](./104xxx/104252/C.cpp) |
 | [104252D](https://codeforces.com/gym/104252/problem/D) | Daily Trips | Unrated | [C++](./104xxx/104252/D.cpp) |
 | [104252E](https://codeforces.com/gym/104252/problem/E) | Empty Squares | Unrated | [C++](./104xxx/104252/E.cpp) |
