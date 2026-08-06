@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 363
+### Solved: 365
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -360,11 +360,13 @@
 | [2254C1](https://codeforces.com/problemset/problem/2254/C1) | Marenol (easy version) | Unrated | [C++](./2xxx/2254/C1.cpp) |
 | [2254C2](https://codeforces.com/problemset/problem/2254/C2) | Marenol (hard version) | Unrated | [C++](./2xxx/2254/C2.cpp) |
 | [2254D](https://codeforces.com/problemset/problem/2254/D) | Silhouette | Unrated | [C++](./2xxx/2254/D.cpp) |
+| [2254E](https://codeforces.com/problemset/problem/2254/E) | Chronostasis | Unrated | [C++](./2xxx/2254/E.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
 | [103960I](https://codeforces.com/gym/103960/problem/I) | Intercepting Information | Unrated |  |
 | [103960J](https://codeforces.com/gym/103960/problem/J) | Playing 23 | Unrated |  |
+| [104252C](https://codeforces.com/gym/104252/problem/C) | City Folding | Unrated | [C++](./104xxx/104252/C.cpp) |
 | [104252D](https://codeforces.com/gym/104252/problem/D) | Daily Trips | Unrated | [C++](./104xxx/104252/D.cpp) |
 | [104252E](https://codeforces.com/gym/104252/problem/E) | Empty Squares | Unrated | [C++](./104xxx/104252/E.cpp) |
 | [104252I](https://codeforces.com/gym/104252/problem/I) | Italian Calzone & Pasta Corner | Unrated | [C++](./104xxx/104252/I.cpp) |
