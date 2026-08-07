@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 371
+### Solved: 374
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -359,6 +359,9 @@
 | [2252B](https://codeforces.com/problemset/problem/2252/B) | Always Changing | Unrated | [C++](./2xxx/2252/B.cpp) |
 | [2252C](https://codeforces.com/problemset/problem/2252/C) | Risky Tower | Unrated | [C++](./2xxx/2252/C.cpp) |
 | [2252D](https://codeforces.com/problemset/problem/2252/D) | Array Replacement | Unrated | [C++](./2xxx/2252/D.cpp) |
+| [2253A](https://codeforces.com/problemset/problem/2253/A) | The Best Card | Unrated | [C++](./2xxx/2253/A.cpp) |
+| [2253B](https://codeforces.com/problemset/problem/2253/B) | Hypercarp and the Control Panel | Unrated | [C++](./2xxx/2253/B.cpp) |
+| [2253C](https://codeforces.com/problemset/problem/2253/C) | Sum of Distinct Values in a Matrix | Unrated | [C++](./2xxx/2253/C.cpp) |
 | [2254A](https://codeforces.com/problemset/problem/2254/A) | Riptide | Unrated | [C++](./2xxx/2254/A.cpp) |
 | [2254B](https://codeforces.com/problemset/problem/2254/B) | Evanescent | Unrated | [C++](./2xxx/2254/B.cpp) |
 | [2254C1](https://codeforces.com/problemset/problem/2254/C1) | Marenol (easy version) | Unrated | [C++](./2xxx/2254/C1.cpp) |
