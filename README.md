@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 366
+### Solved: 371
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -355,6 +355,10 @@
 | [2250A](https://codeforces.com/problemset/problem/2250/A) | Threshold Movement | 800 | [C++](./2xxx/2250/A.cpp) |
 | [2250B](https://codeforces.com/problemset/problem/2250/B) | String Construction | 1000 | [C++](./2xxx/2250/B.cpp) |
 | [2250C](https://codeforces.com/problemset/problem/2250/C) | Rank Subsequence | 1300 | [C++](./2xxx/2250/C.cpp) |
+| [2252A](https://codeforces.com/problemset/problem/2252/A) | Boss Fight | Unrated | [C++](./2xxx/2252/A.cpp) |
+| [2252B](https://codeforces.com/problemset/problem/2252/B) | Always Changing | Unrated | [C++](./2xxx/2252/B.cpp) |
+| [2252C](https://codeforces.com/problemset/problem/2252/C) | Risky Tower | Unrated | [C++](./2xxx/2252/C.cpp) |
+| [2252D](https://codeforces.com/problemset/problem/2252/D) | Array Replacement | Unrated | [C++](./2xxx/2252/D.cpp) |
 | [2254A](https://codeforces.com/problemset/problem/2254/A) | Riptide | Unrated | [C++](./2xxx/2254/A.cpp) |
 | [2254B](https://codeforces.com/problemset/problem/2254/B) | Evanescent | Unrated | [C++](./2xxx/2254/B.cpp) |
 | [2254C1](https://codeforces.com/problemset/problem/2254/C1) | Marenol (easy version) | Unrated | [C++](./2xxx/2254/C1.cpp) |
@@ -370,5 +374,6 @@
 | [104252C](https://codeforces.com/gym/104252/problem/C) | City Folding | Unrated | [C++](./104xxx/104252/C.cpp) |
 | [104252D](https://codeforces.com/gym/104252/problem/D) | Daily Trips | Unrated | [C++](./104xxx/104252/D.cpp) |
 | [104252E](https://codeforces.com/gym/104252/problem/E) | Empty Squares | Unrated | [C++](./104xxx/104252/E.cpp) |
+| [104252H](https://codeforces.com/gym/104252/problem/H) | Horse Race | Unrated | [C++](./104xxx/104252/H.cpp) |
 | [104252I](https://codeforces.com/gym/104252/problem/I) | Italian Calzone & Pasta Corner | Unrated | [C++](./104xxx/104252/I.cpp) |
 | [104252M](https://codeforces.com/gym/104252/problem/M) | Maze in Bolt | Unrated | [C++](./104xxx/104252/M.cpp) |
