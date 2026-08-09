@@ -368,10 +368,10 @@
 | [2254C2](https://codeforces.com/problemset/problem/2254/C2) | Marenol (hard version) | Unrated | [C++](./2xxx/2254/C2.cpp) |
 | [2254D](https://codeforces.com/problemset/problem/2254/D) | Silhouette | Unrated | [C++](./2xxx/2254/D.cpp) |
 | [2254E](https://codeforces.com/problemset/problem/2254/E) | Chronostasis | Unrated | [C++](./2xxx/2254/E.cpp) |
-| [2256A](https://codeforces.com/problemset/problem/2256/A) | Three Numbers on the Blackboard | Unrated |  |
-| [2256B](https://codeforces.com/problemset/problem/2256/B) | Domino Tiles | Unrated |  |
-| [2256C](https://codeforces.com/problemset/problem/2256/C) | Hot Potatoes at the Fairy Warehouse | Unrated |  |
-| [2256D](https://codeforces.com/problemset/problem/2256/D) | A Ribbon for Tomorrow | Unrated |  |
+| [2256A](https://codeforces.com/problemset/problem/2256/A) | Three Numbers on the Blackboard | Unrated | [C++](./2xxx/2256/A.cpp) |
+| [2256B](https://codeforces.com/problemset/problem/2256/B) | Domino Tiles | Unrated | [C++](./2xxx/2256/B.cpp) |
+| [2256C](https://codeforces.com/problemset/problem/2256/C) | Hot Potatoes at the Fairy Warehouse | Unrated | [C++](./2xxx/2256/C.cpp) |
+| [2256D](https://codeforces.com/problemset/problem/2256/D) | A Ribbon for Tomorrow | Unrated | [C++](./2xxx/2256/D.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
