@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 379
+### Solved: 380
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -385,3 +385,4 @@
 | [104252I](https://codeforces.com/gym/104252/problem/I) | Italian Calzone & Pasta Corner | Unrated | [C++](./104xxx/104252/I.cpp) |
 | [104252M](https://codeforces.com/gym/104252/problem/M) | Maze in Bolt | Unrated | [C++](./104xxx/104252/M.cpp) |
 | [105383A](https://codeforces.com/gym/105383/problem/A) | Animal Farm | Unrated | [C++](./105xxx/105383/A.cpp) |
+| [105383B](https://codeforces.com/gym/105383/problem/B) | Business Magic | Unrated | [C++](./105xxx/105383/B.cpp) |
