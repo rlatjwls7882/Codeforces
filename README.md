@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 393
+### Solved: 394
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -399,3 +399,4 @@
 | [106084J](https://codeforces.com/gym/106084/problem/J) | Gas Station | Unrated | [C++](./106xxx/106084/J.cpp) |
 | [106084K](https://codeforces.com/gym/106084/problem/K) | Move Stone | Unrated | [C++](./106xxx/106084/K.cpp) |
 | [106084L](https://codeforces.com/gym/106084/problem/L) | Stapler | Unrated | [C++](./106xxx/106084/L.cpp) |
+| [106268D](https://codeforces.com/gym/106268/problem/D) | Decompose and Concatenate | Unrated | [C++](./106xxx/106268/D.cpp) |
