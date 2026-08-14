@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 391
+### Solved: 393
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -396,4 +396,6 @@
 | [106084C](https://codeforces.com/gym/106084/problem/C) | One-Way Abyss | Unrated | [C++](./106xxx/106084/C.cpp) |
 | [106084D](https://codeforces.com/gym/106084/problem/D) | Palindromic Distance | Unrated | [C++](./106xxx/106084/D.cpp) |
 | [106084E](https://codeforces.com/gym/106084/problem/E) | Explosive Slabstones Rearrangement | Unrated | [C++](./106xxx/106084/E.cpp) |
+| [106084J](https://codeforces.com/gym/106084/problem/J) | Gas Station | Unrated | [C++](./106xxx/106084/J.cpp) |
 | [106084K](https://codeforces.com/gym/106084/problem/K) | Move Stone | Unrated | [C++](./106xxx/106084/K.cpp) |
+| [106084L](https://codeforces.com/gym/106084/problem/L) | Stapler | Unrated | [C++](./106xxx/106084/L.cpp) |
