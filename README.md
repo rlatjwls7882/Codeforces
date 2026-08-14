@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 383
+### Solved: 386
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -389,3 +389,6 @@
 | [105383D](https://codeforces.com/gym/105383/problem/D) | Disbursement on Quarantine Policy | Unrated | [C++](./105xxx/105383/D.cpp) |
 | [105383E](https://codeforces.com/gym/105383/problem/E) | Efficient Slabstones Rearrangement | Unrated | [C++](./105xxx/105383/E.cpp) |
 | [105383I](https://codeforces.com/gym/105383/problem/I) | In Search of the Lost Array | Unrated | [C++](./105xxx/105383/I.cpp) |
+| [105383J](https://codeforces.com/gym/105383/problem/J) | Just Round Down | Unrated | [C++](./105xxx/105383/J.cpp) |
+| [105383K](https://codeforces.com/gym/105383/problem/K) | Kingdom's Development Plan | Unrated | [C++](./105xxx/105383/K.cpp) |
+| [106084A](https://codeforces.com/gym/106084/problem/A) | Take It or Double It | Unrated | [C++](./106xxx/106084/A.cpp) |
