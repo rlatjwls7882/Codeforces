@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 380
+### Solved: 382
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -386,3 +386,5 @@
 | [104252M](https://codeforces.com/gym/104252/problem/M) | Maze in Bolt | Unrated | [C++](./104xxx/104252/M.cpp) |
 | [105383A](https://codeforces.com/gym/105383/problem/A) | Animal Farm | Unrated | [C++](./105xxx/105383/A.cpp) |
 | [105383B](https://codeforces.com/gym/105383/problem/B) | Business Magic | Unrated | [C++](./105xxx/105383/B.cpp) |
+| [105383D](https://codeforces.com/gym/105383/problem/D) | Disbursement on Quarantine Policy | Unrated | [C++](./105xxx/105383/D.cpp) |
+| [105383E](https://codeforces.com/gym/105383/problem/E) | Efficient Slabstones Rearrangement | Unrated | [C++](./105xxx/105383/E.cpp) |
