@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 378
+### Solved: 379
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -355,23 +355,23 @@
 | [2250A](https://codeforces.com/problemset/problem/2250/A) | Threshold Movement | 800 | [C++](./2xxx/2250/A.cpp) |
 | [2250B](https://codeforces.com/problemset/problem/2250/B) | String Construction | 1000 | [C++](./2xxx/2250/B.cpp) |
 | [2250C](https://codeforces.com/problemset/problem/2250/C) | Rank Subsequence | 1300 | [C++](./2xxx/2250/C.cpp) |
-| [2252A](https://codeforces.com/problemset/problem/2252/A) | Boss Fight | Unrated | [C++](./2xxx/2252/A.cpp) |
-| [2252B](https://codeforces.com/problemset/problem/2252/B) | Always Changing | Unrated | [C++](./2xxx/2252/B.cpp) |
-| [2252C](https://codeforces.com/problemset/problem/2252/C) | Risky Tower | Unrated | [C++](./2xxx/2252/C.cpp) |
-| [2252D](https://codeforces.com/problemset/problem/2252/D) | Array Replacement | Unrated | [C++](./2xxx/2252/D.cpp) |
-| [2253A](https://codeforces.com/problemset/problem/2253/A) | The Best Card | Unrated | [C++](./2xxx/2253/A.cpp) |
-| [2253B](https://codeforces.com/problemset/problem/2253/B) | Hypercarp and the Control Panel | Unrated | [C++](./2xxx/2253/B.cpp) |
-| [2253C](https://codeforces.com/problemset/problem/2253/C) | Sum of Distinct Values in a Matrix | Unrated | [C++](./2xxx/2253/C.cpp) |
-| [2254A](https://codeforces.com/problemset/problem/2254/A) | Riptide | Unrated | [C++](./2xxx/2254/A.cpp) |
-| [2254B](https://codeforces.com/problemset/problem/2254/B) | Evanescent | Unrated | [C++](./2xxx/2254/B.cpp) |
-| [2254C1](https://codeforces.com/problemset/problem/2254/C1) | Marenol (easy version) | Unrated | [C++](./2xxx/2254/C1.cpp) |
-| [2254C2](https://codeforces.com/problemset/problem/2254/C2) | Marenol (hard version) | Unrated | [C++](./2xxx/2254/C2.cpp) |
-| [2254D](https://codeforces.com/problemset/problem/2254/D) | Silhouette | Unrated | [C++](./2xxx/2254/D.cpp) |
-| [2254E](https://codeforces.com/problemset/problem/2254/E) | Chronostasis | Unrated | [C++](./2xxx/2254/E.cpp) |
-| [2256A](https://codeforces.com/problemset/problem/2256/A) | Three Numbers on the Blackboard | Unrated | [C++](./2xxx/2256/A.cpp) |
-| [2256B](https://codeforces.com/problemset/problem/2256/B) | Domino Tiles | Unrated | [C++](./2xxx/2256/B.cpp) |
-| [2256C](https://codeforces.com/problemset/problem/2256/C) | Hot Potatoes at the Fairy Warehouse | Unrated | [C++](./2xxx/2256/C.cpp) |
-| [2256D](https://codeforces.com/problemset/problem/2256/D) | A Ribbon for Tomorrow | Unrated | [C++](./2xxx/2256/D.cpp) |
+| [2252A](https://codeforces.com/problemset/problem/2252/A) | Boss Fight | 800 | [C++](./2xxx/2252/A.cpp) |
+| [2252B](https://codeforces.com/problemset/problem/2252/B) | Always Changing | 1100 | [C++](./2xxx/2252/B.cpp) |
+| [2252C](https://codeforces.com/problemset/problem/2252/C) | Risky Tower | 1400 | [C++](./2xxx/2252/C.cpp) |
+| [2252D](https://codeforces.com/problemset/problem/2252/D) | Array Replacement | 1700 | [C++](./2xxx/2252/D.cpp) |
+| [2253A](https://codeforces.com/problemset/problem/2253/A) | The Best Card | 800 | [C++](./2xxx/2253/A.cpp) |
+| [2253B](https://codeforces.com/problemset/problem/2253/B) | Hypercarp and the Control Panel | 1100 | [C++](./2xxx/2253/B.cpp) |
+| [2253C](https://codeforces.com/problemset/problem/2253/C) | Sum of Distinct Values in a Matrix | 1500 | [C++](./2xxx/2253/C.cpp) |
+| [2254A](https://codeforces.com/problemset/problem/2254/A) | Riptide | 800 | [C++](./2xxx/2254/A.cpp) |
+| [2254B](https://codeforces.com/problemset/problem/2254/B) | Evanescent | 900 | [C++](./2xxx/2254/B.cpp) |
+| [2254C1](https://codeforces.com/problemset/problem/2254/C1) | Marenol (easy version) | 1000 | [C++](./2xxx/2254/C1.cpp) |
+| [2254C2](https://codeforces.com/problemset/problem/2254/C2) | Marenol (hard version) | 1200 | [C++](./2xxx/2254/C2.cpp) |
+| [2254D](https://codeforces.com/problemset/problem/2254/D) | Silhouette | 1300 | [C++](./2xxx/2254/D.cpp) |
+| [2254E](https://codeforces.com/problemset/problem/2254/E) | Chronostasis | 1500 | [C++](./2xxx/2254/E.cpp) |
+| [2256A](https://codeforces.com/problemset/problem/2256/A) | Three Numbers on the Blackboard | 800 | [C++](./2xxx/2256/A.cpp) |
+| [2256B](https://codeforces.com/problemset/problem/2256/B) | Domino Tiles | 1000 | [C++](./2xxx/2256/B.cpp) |
+| [2256C](https://codeforces.com/problemset/problem/2256/C) | Hot Potatoes at the Fairy Warehouse | 1200 | [C++](./2xxx/2256/C.cpp) |
+| [2256D](https://codeforces.com/problemset/problem/2256/D) | A Ribbon for Tomorrow | 1600 | [C++](./2xxx/2256/D.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
@@ -384,3 +384,4 @@
 | [104252H](https://codeforces.com/gym/104252/problem/H) | Horse Race | Unrated | [C++](./104xxx/104252/H.cpp) |
 | [104252I](https://codeforces.com/gym/104252/problem/I) | Italian Calzone & Pasta Corner | Unrated | [C++](./104xxx/104252/I.cpp) |
 | [104252M](https://codeforces.com/gym/104252/problem/M) | Maze in Bolt | Unrated | [C++](./104xxx/104252/M.cpp) |
+| [105383A](https://codeforces.com/gym/105383/problem/A) | Animal Farm | Unrated | [C++](./105xxx/105383/A.cpp) |
