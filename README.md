@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 388
+### Solved: 389
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -394,3 +394,4 @@
 | [106084A](https://codeforces.com/gym/106084/problem/A) | Take It or Double It | Unrated | [C++](./106xxx/106084/A.cpp) |
 | [106084B](https://codeforces.com/gym/106084/problem/B) | Twin Guardians | Unrated | [C++](./106xxx/106084/B.cpp) |
 | [106084C](https://codeforces.com/gym/106084/problem/C) | One-Way Abyss | Unrated | [C++](./106xxx/106084/C.cpp) |
+| [106084D](https://codeforces.com/gym/106084/problem/D) | Palindromic Distance | Unrated | [C++](./106xxx/106084/D.cpp) |
