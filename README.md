@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 394
+### Solved: 396
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -388,6 +388,7 @@
 | [105383B](https://codeforces.com/gym/105383/problem/B) | Business Magic | Unrated | [C++](./105xxx/105383/B.cpp) |
 | [105383D](https://codeforces.com/gym/105383/problem/D) | Disbursement on Quarantine Policy | Unrated | [C++](./105xxx/105383/D.cpp) |
 | [105383E](https://codeforces.com/gym/105383/problem/E) | Efficient Slabstones Rearrangement | Unrated | [C++](./105xxx/105383/E.cpp) |
+| [105383F](https://codeforces.com/gym/105383/problem/F) | Fibonacci Lucky Numbers | Unrated | [C++](./105xxx/105383/F.cpp) |
 | [105383I](https://codeforces.com/gym/105383/problem/I) | In Search of the Lost Array | Unrated | [C++](./105xxx/105383/I.cpp) |
 | [105383J](https://codeforces.com/gym/105383/problem/J) | Just Round Down | Unrated | [C++](./105xxx/105383/J.cpp) |
 | [105383K](https://codeforces.com/gym/105383/problem/K) | Kingdom's Development Plan | Unrated | [C++](./105xxx/105383/K.cpp) |
@@ -400,3 +401,4 @@
 | [106084K](https://codeforces.com/gym/106084/problem/K) | Move Stone | Unrated | [C++](./106xxx/106084/K.cpp) |
 | [106084L](https://codeforces.com/gym/106084/problem/L) | Stapler | Unrated | [C++](./106xxx/106084/L.cpp) |
 | [106268D](https://codeforces.com/gym/106268/problem/D) | Decompose and Concatenate | Unrated | [C++](./106xxx/106268/D.cpp) |
+| [106268H](https://codeforces.com/gym/106268/problem/H) | U-Shaped Panels | Unrated | [C++](./106xxx/106268/H.cpp) |
