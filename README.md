@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 399
+### Solved: 400
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -385,6 +385,7 @@
 | [104252I](https://codeforces.com/gym/104252/problem/I) | Italian Calzone & Pasta Corner | Unrated | [C++](./104xxx/104252/I.cpp) |
 | [104252M](https://codeforces.com/gym/104252/problem/M) | Maze in Bolt | Unrated | [C++](./104xxx/104252/M.cpp) |
 | [104619A](https://codeforces.com/gym/104619/problem/A) | Advance to Taoyuan Regional | Unrated | [C++](./104xxx/104619/A.cpp) |
+| [104619B](https://codeforces.com/gym/104619/problem/B) | Better Chance | Unrated | [C++](./104xxx/104619/B.cpp) |
 | [104619J](https://codeforces.com/gym/104619/problem/J) | Java Warriors | Unrated | [C++](./104xxx/104619/J.cpp) |
 | [104619K](https://codeforces.com/gym/104619/problem/K) | Kick | Unrated | [C++](./104xxx/104619/K.cpp) |
 | [105383A](https://codeforces.com/gym/105383/problem/A) | Animal Farm | Unrated | [C++](./105xxx/105383/A.cpp) |
