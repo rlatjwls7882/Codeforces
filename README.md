@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 400
+### Solved: 401
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -388,6 +388,7 @@
 | [104619B](https://codeforces.com/gym/104619/problem/B) | Better Chance | Unrated | [C++](./104xxx/104619/B.cpp) |
 | [104619J](https://codeforces.com/gym/104619/problem/J) | Java Warriors | Unrated | [C++](./104xxx/104619/J.cpp) |
 | [104619K](https://codeforces.com/gym/104619/problem/K) | Kick | Unrated | [C++](./104xxx/104619/K.cpp) |
+| [104619L](https://codeforces.com/gym/104619/problem/L) | Location, Location, Location | Unrated | [C++](./104xxx/104619/L.cpp) |
 | [105383A](https://codeforces.com/gym/105383/problem/A) | Animal Farm | Unrated | [C++](./105xxx/105383/A.cpp) |
 | [105383B](https://codeforces.com/gym/105383/problem/B) | Business Magic | Unrated | [C++](./105xxx/105383/B.cpp) |
 | [105383D](https://codeforces.com/gym/105383/problem/D) | Disbursement on Quarantine Policy | Unrated | [C++](./105xxx/105383/D.cpp) |
