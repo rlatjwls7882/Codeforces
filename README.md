@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 401
+### Solved: 402
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -386,6 +386,7 @@
 | [104252M](https://codeforces.com/gym/104252/problem/M) | Maze in Bolt | Unrated | [C++](./104xxx/104252/M.cpp) |
 | [104619A](https://codeforces.com/gym/104619/problem/A) | Advance to Taoyuan Regional | Unrated | [C++](./104xxx/104619/A.cpp) |
 | [104619B](https://codeforces.com/gym/104619/problem/B) | Better Chance | Unrated | [C++](./104xxx/104619/B.cpp) |
+| [104619C](https://codeforces.com/gym/104619/problem/C) | Cutting into Monotone Increasing Sequence | Unrated | [C++](./104xxx/104619/C.cpp) |
 | [104619J](https://codeforces.com/gym/104619/problem/J) | Java Warriors | Unrated | [C++](./104xxx/104619/J.cpp) |
 | [104619K](https://codeforces.com/gym/104619/problem/K) | Kick | Unrated | [C++](./104xxx/104619/K.cpp) |
 | [104619L](https://codeforces.com/gym/104619/problem/L) | Location, Location, Location | Unrated | [C++](./104xxx/104619/L.cpp) |
