@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 396
+### Solved: 397
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -384,6 +384,7 @@
 | [104252H](https://codeforces.com/gym/104252/problem/H) | Horse Race | Unrated | [C++](./104xxx/104252/H.cpp) |
 | [104252I](https://codeforces.com/gym/104252/problem/I) | Italian Calzone & Pasta Corner | Unrated | [C++](./104xxx/104252/I.cpp) |
 | [104252M](https://codeforces.com/gym/104252/problem/M) | Maze in Bolt | Unrated | [C++](./104xxx/104252/M.cpp) |
+| [104619J](https://codeforces.com/gym/104619/problem/J) | Java Warriors | Unrated | [C++](./104xxx/104619/J.cpp) |
 | [105383A](https://codeforces.com/gym/105383/problem/A) | Animal Farm | Unrated | [C++](./105xxx/105383/A.cpp) |
 | [105383B](https://codeforces.com/gym/105383/problem/B) | Business Magic | Unrated | [C++](./105xxx/105383/B.cpp) |
 | [105383D](https://codeforces.com/gym/105383/problem/D) | Disbursement on Quarantine Policy | Unrated | [C++](./105xxx/105383/D.cpp) |
