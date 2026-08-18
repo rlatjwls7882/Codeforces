@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 404
+### Solved: 405
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -374,6 +374,7 @@
 | [2256D](https://codeforces.com/problemset/problem/2256/D) | A Ribbon for Tomorrow | 1600 | [C++](./2xxx/2256/D.cpp) |
 | [2257A](https://codeforces.com/problemset/problem/2257/A) | Creating Abbreviations | Unrated | [C++](./2xxx/2257/A.cpp) |
 | [2257B](https://codeforces.com/problemset/problem/2257/B) | Gigantomachy | Unrated | [C++](./2xxx/2257/B.cpp) |
+| [2257C](https://codeforces.com/problemset/problem/2257/C) | Spying on the Beaver | Unrated | [C++](./2xxx/2257/C.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
