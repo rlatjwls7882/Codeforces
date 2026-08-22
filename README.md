@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 405
+### Solved: 406
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -234,6 +234,7 @@
 | [1985C](https://codeforces.com/problemset/problem/1985/C) | Good Prefixes | 1000 | [C++](./1xxx/1985/C.cc) |
 | [1986A](https://codeforces.com/problemset/problem/1986/A) | X Axis | 800 | [C++](./1xxx/1986/A.cc) |
 | [1987A](https://codeforces.com/problemset/problem/1987/A) | Upload More RAM | 800 | [C++](./1xxx/1987/A.cc) |
+| [2002E](https://codeforces.com/problemset/problem/2002/E) | Cosmic Rays | 2300 | [C++](./2xxx/2002/E.cpp) |
 | [2005A](https://codeforces.com/problemset/problem/2005/A) | Simple Palindrome | 900 | [C++](./2xxx/2005/A.cc) |
 | [2005B1](https://codeforces.com/problemset/problem/2005/B1) | The Strict Teacher (Easy Version) | 1000 | [C++](./2xxx/2005/B1.cc) |
 | [2005B2](https://codeforces.com/problemset/problem/2005/B2) | The Strict Teacher (Hard Version) | 1200 | [C++](./2xxx/2005/B2.cc) |
