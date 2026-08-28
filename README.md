@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 407
+### Solved: 408
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -403,6 +403,7 @@
 | [105383J](https://codeforces.com/gym/105383/problem/J) | Just Round Down | Unrated | [C++](./105xxx/105383/J.cpp) |
 | [105383K](https://codeforces.com/gym/105383/problem/K) | Kingdom's Development Plan | Unrated | [C++](./105xxx/105383/K.cpp) |
 | [105492I](https://codeforces.com/gym/105492/problem/I) | Interrail Pass | Unrated | [C++](./105xxx/105492/I.cpp) |
+| [105492J](https://codeforces.com/gym/105492/problem/J) | Jumbled Scoreboards | Unrated | [C++](./105xxx/105492/J.cpp) |
 | [106084A](https://codeforces.com/gym/106084/problem/A) | Take It or Double It | Unrated | [C++](./106xxx/106084/A.cpp) |
 | [106084B](https://codeforces.com/gym/106084/problem/B) | Twin Guardians | Unrated | [C++](./106xxx/106084/B.cpp) |
 | [106084C](https://codeforces.com/gym/106084/problem/C) | One-Way Abyss | Unrated | [C++](./106xxx/106084/C.cpp) |
