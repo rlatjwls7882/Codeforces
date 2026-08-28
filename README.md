@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 406
+### Solved: 407
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -373,9 +373,9 @@
 | [2256B](https://codeforces.com/problemset/problem/2256/B) | Domino Tiles | 1000 | [C++](./2xxx/2256/B.cpp) |
 | [2256C](https://codeforces.com/problemset/problem/2256/C) | Hot Potatoes at the Fairy Warehouse | 1200 | [C++](./2xxx/2256/C.cpp) |
 | [2256D](https://codeforces.com/problemset/problem/2256/D) | A Ribbon for Tomorrow | 1600 | [C++](./2xxx/2256/D.cpp) |
-| [2257A](https://codeforces.com/problemset/problem/2257/A) | Creating Abbreviations | Unrated | [C++](./2xxx/2257/A.cpp) |
-| [2257B](https://codeforces.com/problemset/problem/2257/B) | Gigantomachy | Unrated | [C++](./2xxx/2257/B.cpp) |
-| [2257C](https://codeforces.com/problemset/problem/2257/C) | Spying on the Beaver | Unrated | [C++](./2xxx/2257/C.cpp) |
+| [2257A](https://codeforces.com/problemset/problem/2257/A) | Creating Abbreviations | 800 | [C++](./2xxx/2257/A.cpp) |
+| [2257B](https://codeforces.com/problemset/problem/2257/B) | Gigantomachy | 800 | [C++](./2xxx/2257/B.cpp) |
+| [2257C](https://codeforces.com/problemset/problem/2257/C) | Spying on the Beaver | 1200 | [C++](./2xxx/2257/C.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
@@ -402,6 +402,7 @@
 | [105383I](https://codeforces.com/gym/105383/problem/I) | In Search of the Lost Array | Unrated | [C++](./105xxx/105383/I.cpp) |
 | [105383J](https://codeforces.com/gym/105383/problem/J) | Just Round Down | Unrated | [C++](./105xxx/105383/J.cpp) |
 | [105383K](https://codeforces.com/gym/105383/problem/K) | Kingdom's Development Plan | Unrated | [C++](./105xxx/105383/K.cpp) |
+| [105492I](https://codeforces.com/gym/105492/problem/I) | Interrail Pass | Unrated | [C++](./105xxx/105492/I.cpp) |
 | [106084A](https://codeforces.com/gym/106084/problem/A) | Take It or Double It | Unrated | [C++](./106xxx/106084/A.cpp) |
 | [106084B](https://codeforces.com/gym/106084/problem/B) | Twin Guardians | Unrated | [C++](./106xxx/106084/B.cpp) |
 | [106084C](https://codeforces.com/gym/106084/problem/C) | One-Way Abyss | Unrated | [C++](./106xxx/106084/C.cpp) |
