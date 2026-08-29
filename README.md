@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 411
+### Solved: 413
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -405,6 +405,8 @@
 | [105394A](https://codeforces.com/gym/105394/problem/A) | Alien Attack 2 | Unrated | [C++](./105xxx/105394/A.cpp) |
 | [105394B](https://codeforces.com/gym/105394/problem/B) | Bookshelf Bottleneck | Unrated | [C++](./105xxx/105394/B.cpp) |
 | [105394D](https://codeforces.com/gym/105394/problem/D) | Dark Alley | Unrated | [C++](./105xxx/105394/D.cpp) |
+| [105394I](https://codeforces.com/gym/105394/problem/I) | Interference | Unrated | [C++](./105xxx/105394/I.cpp) |
+| [105394M](https://codeforces.com/gym/105394/problem/M) | Musical Mending | Unrated |  |
 | [105492I](https://codeforces.com/gym/105492/problem/I) | Interrail Pass | Unrated | [C++](./105xxx/105492/I.cpp) |
 | [105492J](https://codeforces.com/gym/105492/problem/J) | Jumbled Scoreboards | Unrated | [C++](./105xxx/105492/J.cpp) |
 | [106084A](https://codeforces.com/gym/106084/problem/A) | Take It or Double It | Unrated | [C++](./106xxx/106084/A.cpp) |
