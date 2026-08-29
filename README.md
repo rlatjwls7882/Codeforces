@@ -376,7 +376,7 @@
 | [2257A](https://codeforces.com/problemset/problem/2257/A) | Creating Abbreviations | 800 | [C++](./2xxx/2257/A.cpp) |
 | [2257B](https://codeforces.com/problemset/problem/2257/B) | Gigantomachy | 800 | [C++](./2xxx/2257/B.cpp) |
 | [2257C](https://codeforces.com/problemset/problem/2257/C) | Spying on the Beaver | 1200 | [C++](./2xxx/2257/C.cpp) |
-| [2258A](https://codeforces.com/problemset/problem/2258/A) | Odd Eraser | Unrated |  |
+| [2258A](https://codeforces.com/problemset/problem/2258/A) | Odd Eraser | Unrated | [C++](./2xxx/2258/A.cpp) |
 | [2258B1](https://codeforces.com/problemset/problem/2258/B1) | Carrot Chopdown (Easy Version) | Unrated |  |
 | [2258C](https://codeforces.com/problemset/problem/2258/C) | Far Cities | Unrated |  |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
