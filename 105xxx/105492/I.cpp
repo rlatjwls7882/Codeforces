@@ -16,7 +16,7 @@ int main() {
         for(int j=0;j<k;j++) {
             for(int kk=max(0LL, i-d[j]+1);kk<=i;kk++) {
                 if(t[i]-t[kk]+1<=p[j]) {
-                    dp[i]=min(dp[i],dp[kk-1]+c[j]);
+                    dp[i]=min(dp[i],(kk-1>=0 ? dp[kk-1] : 0)+c[j]);
                     break;
                 }
             }
