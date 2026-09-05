@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 416
+### Solved: 417
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -379,6 +379,7 @@
 | [2258A](https://codeforces.com/problemset/problem/2258/A) | Odd Eraser | Unrated | [C++](./2xxx/2258/A.cpp) |
 | [2258B1](https://codeforces.com/problemset/problem/2258/B1) | Carrot Chopdown (Easy Version) | Unrated | [C++](./2xxx/2258/B1.cpp) |
 | [2258C](https://codeforces.com/problemset/problem/2258/C) | Far Cities | Unrated | [C++](./2xxx/2258/C.cpp) |
+| [2259B](https://codeforces.com/problemset/problem/2259/B) | Minus Two | Unrated | [C++](./2xxx/2259/B.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
