@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 417
+### Solved: 418
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -39,6 +39,7 @@
 | [271A](https://codeforces.com/problemset/problem/271/A) | Beautiful Year | 800 | [Java](./0xxx/0271/A.java) |
 | [281A](https://codeforces.com/problemset/problem/281/A) | Word Capitalization | 800 | [Java](./0xxx/0281/A.java) |
 | [282A](https://codeforces.com/problemset/problem/282/A) | Bit++ | 800 | [Java](./0xxx/0282/A.java) |
+| [321C](https://codeforces.com/problemset/problem/321/C) | Ciel the Commander | 2100 |  |
 | [339A](https://codeforces.com/problemset/problem/339/A) | Helpful Maths | 800 | [Java](./0xxx/0339/A.java) |
 | [344A](https://codeforces.com/problemset/problem/344/A) | Magnets | 800 | [Java](./0xxx/0344/A.java) |
 | [381A](https://codeforces.com/problemset/problem/381/A) | Sereja and Dima | 800 | [C++](./0xxx/0381/A.cc) |
@@ -376,10 +377,10 @@
 | [2257A](https://codeforces.com/problemset/problem/2257/A) | Creating Abbreviations | 800 | [C++](./2xxx/2257/A.cpp) |
 | [2257B](https://codeforces.com/problemset/problem/2257/B) | Gigantomachy | 800 | [C++](./2xxx/2257/B.cpp) |
 | [2257C](https://codeforces.com/problemset/problem/2257/C) | Spying on the Beaver | 1200 | [C++](./2xxx/2257/C.cpp) |
-| [2258A](https://codeforces.com/problemset/problem/2258/A) | Odd Eraser | Unrated | [C++](./2xxx/2258/A.cpp) |
-| [2258B1](https://codeforces.com/problemset/problem/2258/B1) | Carrot Chopdown (Easy Version) | Unrated | [C++](./2xxx/2258/B1.cpp) |
-| [2258C](https://codeforces.com/problemset/problem/2258/C) | Far Cities | Unrated | [C++](./2xxx/2258/C.cpp) |
-| [2259B](https://codeforces.com/problemset/problem/2259/B) | Minus Two | Unrated | [C++](./2xxx/2259/B.cpp) |
+| [2258A](https://codeforces.com/problemset/problem/2258/A) | Odd Eraser | 800 | [C++](./2xxx/2258/A.cpp) |
+| [2258B1](https://codeforces.com/problemset/problem/2258/B1) | Carrot Chopdown (Easy Version) | 900 | [C++](./2xxx/2258/B1.cpp) |
+| [2258C](https://codeforces.com/problemset/problem/2258/C) | Far Cities | 1600 | [C++](./2xxx/2258/C.cpp) |
+| [2259B](https://codeforces.com/problemset/problem/2259/B) | Minus Two | 800 | [C++](./2xxx/2259/B.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
