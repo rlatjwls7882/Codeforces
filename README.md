@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 423
+### Solved: 421
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -382,10 +382,8 @@
 | [2258C](https://codeforces.com/problemset/problem/2258/C) | Far Cities | 1600 | [C++](./2xxx/2258/C.cpp) |
 | [2259B](https://codeforces.com/problemset/problem/2259/B) | Minus Two | 800 | [C++](./2xxx/2259/B.cpp) |
 | [2267A](https://codeforces.com/problemset/problem/2267/A) | Turn Into a Palindrome | Unrated | [C++](./2xxx/2267/A.cpp) |
-| [2267B](https://codeforces.com/problemset/problem/2267/B) | Fashionable Array | Unrated |  |
+| [2267B](https://codeforces.com/problemset/problem/2267/B) | Fashionable Array | Unrated | [C++](./2xxx/2267/B.cpp) |
 | [2267C](https://codeforces.com/problemset/problem/2267/C) | GCD Treasury | Unrated |  |
-| [2267D](https://codeforces.com/problemset/problem/2267/D) | Backrooms Hill | Unrated |  |
-| [2267F1](https://codeforces.com/problemset/problem/2267/F1) | XOR Transformations (Easy Version) | Unrated |  |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
