@@ -385,7 +385,7 @@
 | [2267B](https://codeforces.com/problemset/problem/2267/B) | Fashionable Array | Unrated | [C++](./2xxx/2267/B.cpp) |
 | [2267C](https://codeforces.com/problemset/problem/2267/C) | GCD Treasury | Unrated | [C++](./2xxx/2267/C.cpp) |
 | [2267D](https://codeforces.com/problemset/problem/2267/D) | Backrooms Hill | Unrated | [C++](./2xxx/2267/D.cpp) |
-| [2267F1](https://codeforces.com/problemset/problem/2267/F1) | XOR Transformations (Easy Version) | Unrated |  |
+| [2267F1](https://codeforces.com/problemset/problem/2267/F1) | XOR Transformations (Easy Version) | Unrated | [C++](./2xxx/2267/F1.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
