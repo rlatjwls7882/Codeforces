@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 423
+### Solved: 426
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -381,11 +381,11 @@
 | [2258B1](https://codeforces.com/problemset/problem/2258/B1) | Carrot Chopdown (Easy Version) | 900 | [C++](./2xxx/2258/B1.cpp) |
 | [2258C](https://codeforces.com/problemset/problem/2258/C) | Far Cities | 1600 | [C++](./2xxx/2258/C.cpp) |
 | [2259B](https://codeforces.com/problemset/problem/2259/B) | Minus Two | 800 | [C++](./2xxx/2259/B.cpp) |
-| [2267A](https://codeforces.com/problemset/problem/2267/A) | Turn Into a Palindrome | Unrated | [C++](./2xxx/2267/A.cpp) |
-| [2267B](https://codeforces.com/problemset/problem/2267/B) | Fashionable Array | Unrated | [C++](./2xxx/2267/B.cpp) |
-| [2267C](https://codeforces.com/problemset/problem/2267/C) | GCD Treasury | Unrated | [C++](./2xxx/2267/C.cpp) |
-| [2267D](https://codeforces.com/problemset/problem/2267/D) | Backrooms Hill | Unrated | [C++](./2xxx/2267/D.cpp) |
-| [2267F1](https://codeforces.com/problemset/problem/2267/F1) | XOR Transformations (Easy Version) | Unrated | [C++](./2xxx/2267/F1.cpp) |
+| [2267A](https://codeforces.com/problemset/problem/2267/A) | Turn Into a Palindrome | 800 | [C++](./2xxx/2267/A.cpp) |
+| [2267B](https://codeforces.com/problemset/problem/2267/B) | Fashionable Array | 800 | [C++](./2xxx/2267/B.cpp) |
+| [2267C](https://codeforces.com/problemset/problem/2267/C) | GCD Treasury | 1200 | [C++](./2xxx/2267/C.cpp) |
+| [2267D](https://codeforces.com/problemset/problem/2267/D) | Backrooms Hill | 1400 | [C++](./2xxx/2267/D.cpp) |
+| [2267F1](https://codeforces.com/problemset/problem/2267/F1) | XOR Transformations (Easy Version) | 1700 | [C++](./2xxx/2267/F1.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
@@ -417,6 +417,9 @@
 | [105394D](https://codeforces.com/gym/105394/problem/D) | Dark Alley | Unrated | [C++](./105xxx/105394/D.cpp) |
 | [105394I](https://codeforces.com/gym/105394/problem/I) | Interference | Unrated | [C++](./105xxx/105394/I.cpp) |
 | [105394M](https://codeforces.com/gym/105394/problem/M) | Musical Mending | Unrated | [C++](./105xxx/105394/M.cpp) |
+| [105446F](https://codeforces.com/gym/105446/problem/F) | Finding Suspicious Proteins | Unrated | [C++](./105xxx/105446/F.cpp) |
+| [105446G](https://codeforces.com/gym/105446/problem/G) | Word Search | Unrated | [C++](./105xxx/105446/G.cpp) |
+| [105446L](https://codeforces.com/gym/105446/problem/L) | Leg Day | Unrated | [C++](./105xxx/105446/L.cpp) |
 | [105492I](https://codeforces.com/gym/105492/problem/I) | Interrail Pass | Unrated | [C++](./105xxx/105492/I.cpp) |
 | [105492J](https://codeforces.com/gym/105492/problem/J) | Jumbled Scoreboards | Unrated | [C++](./105xxx/105492/J.cpp) |
 | [106084A](https://codeforces.com/gym/106084/problem/A) | Take It or Double It | Unrated | [C++](./106xxx/106084/A.cpp) |
