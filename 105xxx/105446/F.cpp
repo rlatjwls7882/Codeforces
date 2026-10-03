@@ -46,7 +46,7 @@ int main() {
     fill(d, d+n, INF);
 
     int idx=0,mx=-1;
-    for(int i=1;i<n;i++){
+    for(int i=0;i<n;i++){
         int cur=0;
         for(int j=0;j<l;j++)cur+=abs(a[i][j]-a[0][j]);
         if(mx<cur){
