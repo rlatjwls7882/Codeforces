@@ -58,7 +58,7 @@ int main() {
     cout<<s[idx]<<'\n';
 
     while(k-->1){
-        int mx=-1, ii;
+        int mx=-1, ii=0;
         for(int i=0;i<n;i++){
             if(idx==i)continue;
             int cur=0;
