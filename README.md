@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 426
+### Solved: 430
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -386,6 +386,10 @@
 | [2267C](https://codeforces.com/problemset/problem/2267/C) | GCD Treasury | 1200 | [C++](./2xxx/2267/C.cpp) |
 | [2267D](https://codeforces.com/problemset/problem/2267/D) | Backrooms Hill | 1400 | [C++](./2xxx/2267/D.cpp) |
 | [2267F1](https://codeforces.com/problemset/problem/2267/F1) | XOR Transformations (Easy Version) | 1700 | [C++](./2xxx/2267/F1.cpp) |
+| [2271A](https://codeforces.com/problemset/problem/2271/A) | Robot Odd Moves | Unrated |  |
+| [2271B](https://codeforces.com/problemset/problem/2271/B) | MEX Game | Unrated |  |
+| [2271C](https://codeforces.com/problemset/problem/2271/C) | XOR Problem | Unrated |  |
+| [2271D](https://codeforces.com/problemset/problem/2271/D) | Target Infection | Unrated |  |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
