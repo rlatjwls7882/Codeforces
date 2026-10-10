@@ -387,7 +387,7 @@
 | [2267D](https://codeforces.com/problemset/problem/2267/D) | Backrooms Hill | 1400 | [C++](./2xxx/2267/D.cpp) |
 | [2267F1](https://codeforces.com/problemset/problem/2267/F1) | XOR Transformations (Easy Version) | 1700 | [C++](./2xxx/2267/F1.cpp) |
 | [2271A](https://codeforces.com/problemset/problem/2271/A) | Robot Odd Moves | Unrated | [C++](./2xxx/2271/A.cpp) |
-| [2271B](https://codeforces.com/problemset/problem/2271/B) | MEX Game | Unrated |  |
+| [2271B](https://codeforces.com/problemset/problem/2271/B) | MEX Game | Unrated | [C++](./2xxx/2271/B.cpp) |
 | [2271C](https://codeforces.com/problemset/problem/2271/C) | XOR Problem | Unrated |  |
 | [2271D](https://codeforces.com/problemset/problem/2271/D) | Target Infection | Unrated |  |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
