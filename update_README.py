@@ -83,11 +83,6 @@ def get_solved_problems():
         problem = sub["problem"]
         contest_id = problem.get("contestId")
 
-        # # Gym 제외
-        # # Codeforces Gym은 보통 contestId가 100000 이상
-        # if contest_id is None or contest_id >= 100000:
-        #     continue
-
         key = problem_key(problem)
 
         if key not in solved:
@@ -128,7 +123,7 @@ def get_problem_rating(rating):
 
 def get_contest_path(contest_id):
     contest_id = int(contest_id)
-    return f"{contest_id // 1000}xxx/{contest_id:04d}"
+    return f"{contest_id:04d}"
 
 
 def get_solution_path(problem):
