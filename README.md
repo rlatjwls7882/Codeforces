@@ -391,7 +391,7 @@
 | [2271C](https://codeforces.com/problemset/problem/2271/C) | XOR Problem | 1400 | [C++](./2xxx/2271/C.cpp) |
 | [2271D](https://codeforces.com/problemset/problem/2271/D) | Target Infection | 1700 | [C++](./2xxx/2271/D.cpp) |
 | [2277A](https://codeforces.com/problemset/problem/2277/A) | Subset Selecting | Unrated | [C++](./2xxx/2277/A.cpp) |
-| [2277B](https://codeforces.com/problemset/problem/2277/B) | Sequence Decreasing | Unrated |  |
+| [2277B](https://codeforces.com/problemset/problem/2277/B) | Sequence Decreasing | Unrated | [C++](./2xxx/2277/B.cpp) |
 | [2277C](https://codeforces.com/problemset/problem/2277/C) | Edge Addeleting | Unrated |  |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
