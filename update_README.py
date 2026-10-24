@@ -121,11 +121,6 @@ def get_problem_rating(rating):
     return str(rating) if rating is not None else "Unrated"
 
 
-def get_contest_path(contest_id):
-    contest_id = int(contest_id)
-    return f"{contest_id:04d}"
-
-
 def get_solution_path(problem):
     contest_id = int(problem["contestId"])
     index = str(problem["index"])
@@ -148,7 +143,7 @@ def get_solution_path(problem):
     }
 
     patterns = [
-        f"{get_contest_path(contest_id)}/{index}.*",
+        f"{contest_id}/{index}.*",
     ]
 
     files = []
