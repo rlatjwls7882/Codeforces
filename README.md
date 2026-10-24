@@ -6,82 +6,82 @@
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
-| [4A](https://codeforces.com/problemset/problem/4/A) | Watermelon | 800 |  |
-| [9A](https://codeforces.com/problemset/problem/9/A) | Die Roll | 800 |  |
-| [32B](https://codeforces.com/problemset/problem/32/B) | Borze | 800 |  |
-| [41A](https://codeforces.com/problemset/problem/41/A) | Translation | 800 |  |
-| [50A](https://codeforces.com/problemset/problem/50/A) | Domino piling | 800 |  |
-| [59A](https://codeforces.com/problemset/problem/59/A) | Word | 800 |  |
-| [61A](https://codeforces.com/problemset/problem/61/A) | Ultra-Fast Mathematician | 800 |  |
-| [71A](https://codeforces.com/problemset/problem/71/A) | Way Too Long Words | 800 |  |
-| [80A](https://codeforces.com/problemset/problem/80/A) | Panoramix's Prediction | 800 |  |
-| [110A](https://codeforces.com/problemset/problem/110/A) | Nearly Lucky Number | 800 |  |
-| [112A](https://codeforces.com/problemset/problem/112/A) | Petya and Strings | 800 |  |
-| [116A](https://codeforces.com/problemset/problem/116/A) | Tram | 800 |  |
-| [136A](https://codeforces.com/problemset/problem/136/A) | Presents | 800 |  |
-| [141A](https://codeforces.com/problemset/problem/141/A) | Amusing Joke | 800 |  |
-| [144A](https://codeforces.com/problemset/problem/144/A) | Arrival of the General | 800 |  |
-| [148A](https://codeforces.com/problemset/problem/148/A) | Insomnia cure | 800 |  |
-| [151A](https://codeforces.com/problemset/problem/151/A) | Soft Drinking | 800 |  |
-| [155A](https://codeforces.com/problemset/problem/155/A) | I_love_\%username\% | 800 |  |
-| [158A](https://codeforces.com/problemset/problem/158/A) | Next Round | 800 |  |
-| [200B](https://codeforces.com/problemset/problem/200/B) | Drinks | 800 |  |
-| [214A](https://codeforces.com/problemset/problem/214/A) | System of Equations | 800 |  |
-| [228A](https://codeforces.com/problemset/problem/228/A) | Is your horseshoe on the other hoof? | 800 |  |
-| [231A](https://codeforces.com/problemset/problem/231/A) | Team | 800 |  |
-| [233A](https://codeforces.com/problemset/problem/233/A) | Perfect Permutation | 800 |  |
-| [236A](https://codeforces.com/problemset/problem/236/A) | Boy or Girl | 800 |  |
-| [263A](https://codeforces.com/problemset/problem/263/A) | Beautiful Matrix | 800 |  |
-| [265A](https://codeforces.com/problemset/problem/265/A) | Colorful Stones (Simplified Edition) | 800 |  |
-| [266A](https://codeforces.com/problemset/problem/266/A) | Stones on the Table | 800 |  |
-| [266B](https://codeforces.com/problemset/problem/266/B) | Queue at the School | 800 |  |
-| [268A](https://codeforces.com/problemset/problem/268/A) | Games | 800 |  |
-| [271A](https://codeforces.com/problemset/problem/271/A) | Beautiful Year | 800 |  |
-| [281A](https://codeforces.com/problemset/problem/281/A) | Word Capitalization | 800 |  |
-| [282A](https://codeforces.com/problemset/problem/282/A) | Bit++ | 800 |  |
-| [321C](https://codeforces.com/problemset/problem/321/C) | Ciel the Commander | 2100 |  |
-| [339A](https://codeforces.com/problemset/problem/339/A) | Helpful Maths | 800 |  |
-| [344A](https://codeforces.com/problemset/problem/344/A) | Magnets | 800 |  |
-| [381A](https://codeforces.com/problemset/problem/381/A) | Sereja and Dima | 800 |  |
-| [427A](https://codeforces.com/problemset/problem/427/A) | Police Recruits | 800 |  |
-| [431A](https://codeforces.com/problemset/problem/431/A) | Black Square | 800 |  |
-| [432A](https://codeforces.com/problemset/problem/432/A) | Choosing Teams | 800 |  |
-| [443A](https://codeforces.com/problemset/problem/443/A) | Anton and Letters | 800 |  |
-| [467A](https://codeforces.com/problemset/problem/467/A) | George and Accommodation | 800 |  |
-| [469A](https://codeforces.com/problemset/problem/469/A) | I Wanna Be the Guy | 800 |  |
-| [472A](https://codeforces.com/problemset/problem/472/A) | Design Tutorial: Learn from Math | 800 |  |
-| [486A](https://codeforces.com/problemset/problem/486/A) | Calculating Function | 800 |  |
-| [490A](https://codeforces.com/problemset/problem/490/A) | Team Olympiad | 800 |  |
-| [492A](https://codeforces.com/problemset/problem/492/A) | Vanya and Cubes | 800 |  |
-| [509A](https://codeforces.com/problemset/problem/509/A) | Maximum in Table | 800 |  |
-| [510A](https://codeforces.com/problemset/problem/510/A) | Fox And Snake | 800 |  |
-| [520A](https://codeforces.com/problemset/problem/520/A) | Pangram | 800 |  |
-| [546A](https://codeforces.com/problemset/problem/546/A) | Soldier and Bananas | 800 |  |
-| [581A](https://codeforces.com/problemset/problem/581/A) | Vasya the Hipster | 800 |  |
-| [617A](https://codeforces.com/problemset/problem/617/A) | Elephant | 800 |  |
-| [630A](https://codeforces.com/problemset/problem/630/A) | Again Twenty Five! | 800 |  |
-| [677A](https://codeforces.com/problemset/problem/677/A) | Vanya and Fence | 800 |  |
-| [686A](https://codeforces.com/problemset/problem/686/A) | Free Ice Cream | 800 |  |
-| [702A](https://codeforces.com/problemset/problem/702/A) | Maximum Increase | 800 |  |
-| [703A](https://codeforces.com/problemset/problem/703/A) | Mishka and Game | 800 |  |
-| [705A](https://codeforces.com/problemset/problem/705/A) | Hulk | 800 |  |
-| [707A](https://codeforces.com/problemset/problem/707/A) | Brain's Photos | 800 |  |
-| [723A](https://codeforces.com/problemset/problem/723/A) | The New Year: Meeting Friends | 800 |  |
-| [731A](https://codeforces.com/problemset/problem/731/A) | Night at the Museum | 800 |  |
-| [732A](https://codeforces.com/problemset/problem/732/A) | Buy a Shovel | 800 |  |
-| [734A](https://codeforces.com/problemset/problem/734/A) | Anton and Danik | 800 |  |
-| [734B](https://codeforces.com/problemset/problem/734/B) | Anton and Digits | 800 |  |
-| [749A](https://codeforces.com/problemset/problem/749/A) | Bachgold Problem | 800 |  |
-| [750A](https://codeforces.com/problemset/problem/750/A) | New Year and Hurry | 800 |  |
-| [758A](https://codeforces.com/problemset/problem/758/A) | Holiday Of Equality | 800 |  |
-| [785A](https://codeforces.com/problemset/problem/785/A) | Anton and Polyhedrons | 800 |  |
-| [791A](https://codeforces.com/problemset/problem/791/A) | Bear and Big Brother | 800 |  |
-| [894A](https://codeforces.com/problemset/problem/894/A) | QAQ | 800 |  |
-| [935A](https://codeforces.com/problemset/problem/935/A) | Fafa and his Company | 800 |  |
-| [959A](https://codeforces.com/problemset/problem/959/A) | Mahmoud and Ehab and the even-odd game | 800 |  |
-| [977A](https://codeforces.com/problemset/problem/977/A) | Wrong Subtraction | 800 |  |
-| [978B](https://codeforces.com/problemset/problem/978/B) | File Name | 800 |  |
-| [996A](https://codeforces.com/problemset/problem/996/A) | Hit the Lottery | 800 |  |
+| [4A](https://codeforces.com/problemset/problem/4/A) | Watermelon | 800 | [Java](./4/A.java) |
+| [9A](https://codeforces.com/problemset/problem/9/A) | Die Roll | 800 | [C++](./9/A.cc) |
+| [32B](https://codeforces.com/problemset/problem/32/B) | Borze | 800 | [Java](./32/B.java) |
+| [41A](https://codeforces.com/problemset/problem/41/A) | Translation | 800 | [Java](./41/A.java) |
+| [50A](https://codeforces.com/problemset/problem/50/A) | Domino piling | 800 | [Java](./50/A.java) |
+| [59A](https://codeforces.com/problemset/problem/59/A) | Word | 800 | [Java](./59/A.java) |
+| [61A](https://codeforces.com/problemset/problem/61/A) | Ultra-Fast Mathematician | 800 | [Java](./61/A.java) |
+| [71A](https://codeforces.com/problemset/problem/71/A) | Way Too Long Words | 800 | [Java](./71/A.java) |
+| [80A](https://codeforces.com/problemset/problem/80/A) | Panoramix's Prediction | 800 | [Python](./80/A.py) |
+| [110A](https://codeforces.com/problemset/problem/110/A) | Nearly Lucky Number | 800 | [Java](./110/A.java) |
+| [112A](https://codeforces.com/problemset/problem/112/A) | Petya and Strings | 800 | [Java](./112/A.java) |
+| [116A](https://codeforces.com/problemset/problem/116/A) | Tram | 800 | [Python](./116/A.py) |
+| [136A](https://codeforces.com/problemset/problem/136/A) | Presents | 800 | [Java](./136/A.java) |
+| [141A](https://codeforces.com/problemset/problem/141/A) | Amusing Joke | 800 | [Java](./141/A.java) |
+| [144A](https://codeforces.com/problemset/problem/144/A) | Arrival of the General | 800 | [Java](./144/A.java) |
+| [148A](https://codeforces.com/problemset/problem/148/A) | Insomnia cure | 800 | [Java](./148/A.java) |
+| [151A](https://codeforces.com/problemset/problem/151/A) | Soft Drinking | 800 | [Java](./151/A.java) |
+| [155A](https://codeforces.com/problemset/problem/155/A) | I_love_\%username\% | 800 | [Java](./155/A.java) |
+| [158A](https://codeforces.com/problemset/problem/158/A) | Next Round | 800 | [Java](./158/A.java) |
+| [200B](https://codeforces.com/problemset/problem/200/B) | Drinks | 800 | [Java](./200/B.java) |
+| [214A](https://codeforces.com/problemset/problem/214/A) | System of Equations | 800 | [C++](./214/A.cc) |
+| [228A](https://codeforces.com/problemset/problem/228/A) | Is your horseshoe on the other hoof? | 800 | [Java](./228/A.java) |
+| [231A](https://codeforces.com/problemset/problem/231/A) | Team | 800 | [Java](./231/A.java) |
+| [233A](https://codeforces.com/problemset/problem/233/A) | Perfect Permutation | 800 | [C++](./233/A.cc) |
+| [236A](https://codeforces.com/problemset/problem/236/A) | Boy or Girl | 800 | [Java](./236/A.java) |
+| [263A](https://codeforces.com/problemset/problem/263/A) | Beautiful Matrix | 800 | [Java](./263/A.java) |
+| [265A](https://codeforces.com/problemset/problem/265/A) | Colorful Stones (Simplified Edition) | 800 | [C++](./265/A.cc) |
+| [266A](https://codeforces.com/problemset/problem/266/A) | Stones on the Table | 800 | [Java](./266/A.java) |
+| [266B](https://codeforces.com/problemset/problem/266/B) | Queue at the School | 800 | [Java](./266/B.java) |
+| [268A](https://codeforces.com/problemset/problem/268/A) | Games | 800 | [C++](./268/A.cc) |
+| [271A](https://codeforces.com/problemset/problem/271/A) | Beautiful Year | 800 | [Java](./271/A.java) |
+| [281A](https://codeforces.com/problemset/problem/281/A) | Word Capitalization | 800 | [Java](./281/A.java) |
+| [282A](https://codeforces.com/problemset/problem/282/A) | Bit++ | 800 | [Java](./282/A.java) |
+| [321C](https://codeforces.com/problemset/problem/321/C) | Ciel the Commander | 2100 | [C++](./321/C.cpp) |
+| [339A](https://codeforces.com/problemset/problem/339/A) | Helpful Maths | 800 | [Java](./339/A.java) |
+| [344A](https://codeforces.com/problemset/problem/344/A) | Magnets | 800 | [Java](./344/A.java) |
+| [381A](https://codeforces.com/problemset/problem/381/A) | Sereja and Dima | 800 | [C++](./381/A.cc) |
+| [427A](https://codeforces.com/problemset/problem/427/A) | Police Recruits | 800 | [Java](./427/A.java) |
+| [431A](https://codeforces.com/problemset/problem/431/A) | Black Square | 800 | [C++](./431/A.cc) |
+| [432A](https://codeforces.com/problemset/problem/432/A) | Choosing Teams | 800 | [C++](./432/A.cc) |
+| [443A](https://codeforces.com/problemset/problem/443/A) | Anton and Letters | 800 | [Java](./443/A.java) |
+| [467A](https://codeforces.com/problemset/problem/467/A) | George and Accommodation | 800 | [Java](./467/A.java) |
+| [469A](https://codeforces.com/problemset/problem/469/A) | I Wanna Be the Guy | 800 | [Java](./469/A.java) |
+| [472A](https://codeforces.com/problemset/problem/472/A) | Design Tutorial: Learn from Math | 800 | [Java](./472/A.java) |
+| [486A](https://codeforces.com/problemset/problem/486/A) | Calculating Function | 800 | [Java](./486/A.java) |
+| [490A](https://codeforces.com/problemset/problem/490/A) | Team Olympiad | 800 | [Java](./490/A.java) |
+| [492A](https://codeforces.com/problemset/problem/492/A) | Vanya and Cubes | 800 | [C++](./492/A.cc) |
+| [509A](https://codeforces.com/problemset/problem/509/A) | Maximum in Table | 800 | [C++](./509/A.cc) |
+| [510A](https://codeforces.com/problemset/problem/510/A) | Fox And Snake | 800 | [Java](./510/A.java) |
+| [520A](https://codeforces.com/problemset/problem/520/A) | Pangram | 800 | [Java](./520/A.java) |
+| [546A](https://codeforces.com/problemset/problem/546/A) | Soldier and Bananas | 800 | [Java](./546/A.java) |
+| [581A](https://codeforces.com/problemset/problem/581/A) | Vasya the Hipster | 800 | [Java](./581/A.java) |
+| [617A](https://codeforces.com/problemset/problem/617/A) | Elephant | 800 | [Java](./617/A.java) |
+| [630A](https://codeforces.com/problemset/problem/630/A) | Again Twenty Five! | 800 | [Java](./630/A.java) |
+| [677A](https://codeforces.com/problemset/problem/677/A) | Vanya and Fence | 800 | [Java](./677/A.java) |
+| [686A](https://codeforces.com/problemset/problem/686/A) | Free Ice Cream | 800 | [C++](./686/A.cc) |
+| [702A](https://codeforces.com/problemset/problem/702/A) | Maximum Increase | 800 | [C++](./702/A.cc) |
+| [703A](https://codeforces.com/problemset/problem/703/A) | Mishka and Game | 800 | [C++](./703/A.cc) |
+| [705A](https://codeforces.com/problemset/problem/705/A) | Hulk | 800 | [Java](./705/A.java) |
+| [707A](https://codeforces.com/problemset/problem/707/A) | Brain's Photos | 800 | [Java](./707/A.java) |
+| [723A](https://codeforces.com/problemset/problem/723/A) | The New Year: Meeting Friends | 800 | [C++](./723/A.cc) |
+| [731A](https://codeforces.com/problemset/problem/731/A) | Night at the Museum | 800 | [C++](./731/A.cc) |
+| [732A](https://codeforces.com/problemset/problem/732/A) | Buy a Shovel | 800 | [C++](./732/A.cc) |
+| [734A](https://codeforces.com/problemset/problem/734/A) | Anton and Danik | 800 | [Java](./734/A.java) |
+| [734B](https://codeforces.com/problemset/problem/734/B) | Anton and Digits | 800 | [C++](./734/B.cc) |
+| [749A](https://codeforces.com/problemset/problem/749/A) | Bachgold Problem | 800 | [C++](./749/A.cc) |
+| [750A](https://codeforces.com/problemset/problem/750/A) | New Year and Hurry | 800 | [C++](./750/A.cc) |
+| [758A](https://codeforces.com/problemset/problem/758/A) | Holiday Of Equality | 800 | [Java](./758/A.java) |
+| [785A](https://codeforces.com/problemset/problem/785/A) | Anton and Polyhedrons | 800 | [Java](./785/A.java) |
+| [791A](https://codeforces.com/problemset/problem/791/A) | Bear and Big Brother | 800 | [Java](./791/A.java) |
+| [894A](https://codeforces.com/problemset/problem/894/A) | QAQ | 800 | [C++](./894/A.cc) |
+| [935A](https://codeforces.com/problemset/problem/935/A) | Fafa and his Company | 800 | [C++](./935/A.cc) |
+| [959A](https://codeforces.com/problemset/problem/959/A) | Mahmoud and Ehab and the even-odd game | 800 | [C++](./959/A.cc) |
+| [977A](https://codeforces.com/problemset/problem/977/A) | Wrong Subtraction | 800 | [Java](./977/A.java) |
+| [978B](https://codeforces.com/problemset/problem/978/B) | File Name | 800 | [C++](./978/B.cc) |
+| [996A](https://codeforces.com/problemset/problem/996/A) | Hit the Lottery | 800 | [Java](./996/A.java) |
 | [1030A](https://codeforces.com/problemset/problem/1030/A) | In Search of an Easy Problem | 800 | [Java](./1030/A.java) |
 | [1154A](https://codeforces.com/problemset/problem/1154/A) | Restoring Three Numbers | 800 | [Java](./1154/A.java) |
 | [1186A](https://codeforces.com/problemset/problem/1186/A) | Vus the Cossack and a Contest | 800 | [C++](./1186/A.cc) |
