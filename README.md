@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 430
+### Solved: 433
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -386,10 +386,13 @@
 | [2267C](https://codeforces.com/problemset/problem/2267/C) | GCD Treasury | 1200 | [C++](./2xxx/2267/C.cpp) |
 | [2267D](https://codeforces.com/problemset/problem/2267/D) | Backrooms Hill | 1400 | [C++](./2xxx/2267/D.cpp) |
 | [2267F1](https://codeforces.com/problemset/problem/2267/F1) | XOR Transformations (Easy Version) | 1700 | [C++](./2xxx/2267/F1.cpp) |
-| [2271A](https://codeforces.com/problemset/problem/2271/A) | Robot Odd Moves | Unrated | [C++](./2xxx/2271/A.cpp) |
-| [2271B](https://codeforces.com/problemset/problem/2271/B) | MEX Game | Unrated | [C++](./2xxx/2271/B.cpp) |
-| [2271C](https://codeforces.com/problemset/problem/2271/C) | XOR Problem | Unrated | [C++](./2xxx/2271/C.cpp) |
-| [2271D](https://codeforces.com/problemset/problem/2271/D) | Target Infection | Unrated | [C++](./2xxx/2271/D.cpp) |
+| [2271A](https://codeforces.com/problemset/problem/2271/A) | Robot Odd Moves | 800 | [C++](./2xxx/2271/A.cpp) |
+| [2271B](https://codeforces.com/problemset/problem/2271/B) | MEX Game | 1000 | [C++](./2xxx/2271/B.cpp) |
+| [2271C](https://codeforces.com/problemset/problem/2271/C) | XOR Problem | 1400 | [C++](./2xxx/2271/C.cpp) |
+| [2271D](https://codeforces.com/problemset/problem/2271/D) | Target Infection | 1700 | [C++](./2xxx/2271/D.cpp) |
+| [2277A](https://codeforces.com/problemset/problem/2277/A) | Subset Selecting | Unrated |  |
+| [2277B](https://codeforces.com/problemset/problem/2277/B) | Sequence Decreasing | Unrated |  |
+| [2277C](https://codeforces.com/problemset/problem/2277/C) | Edge Addeleting | Unrated |  |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
