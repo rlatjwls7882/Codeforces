@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 435
+### Solved: 439
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -390,6 +390,10 @@
 | [2271B](https://codeforces.com/problemset/problem/2271/B) | MEX Game | 1000 | [C++](./2271/B.cpp) |
 | [2271C](https://codeforces.com/problemset/problem/2271/C) | XOR Problem | 1400 | [C++](./2271/C.cpp) |
 | [2271D](https://codeforces.com/problemset/problem/2271/D) | Target Infection | 1700 | [C++](./2271/D.cpp) |
+| [2272A](https://codeforces.com/problemset/problem/2272/A) | Maximize One MEX | Unrated | [C++](./2272/A.cpp) |
+| [2272B](https://codeforces.com/problemset/problem/2272/B) | Frogs Jump | Unrated | [C++](./2272/B.cpp) |
+| [2272C](https://codeforces.com/problemset/problem/2272/C) | Yet Another Black Cell Problem | Unrated | [C++](./2272/C.cpp) |
+| [2272D](https://codeforces.com/problemset/problem/2272/D) | Connecting the Conflicts | Unrated | [C++](./2272/D.cpp) |
 | [2277A](https://codeforces.com/problemset/problem/2277/A) | Subset Selecting | Unrated | [C++](./2277/A.cpp) |
 | [2277B](https://codeforces.com/problemset/problem/2277/B) | Sequence Decreasing | Unrated | [C++](./2277/B.cpp) |
 | [2277C](https://codeforces.com/problemset/problem/2277/C) | Edge Addeleting | Unrated | [C++](./2277/C.cpp) |
