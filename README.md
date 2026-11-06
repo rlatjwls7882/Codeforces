@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 439
+### Solved: 448
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -397,6 +397,15 @@
 | [2277A](https://codeforces.com/problemset/problem/2277/A) | Subset Selecting | Unrated | [C++](./2277/A.cpp) |
 | [2277B](https://codeforces.com/problemset/problem/2277/B) | Sequence Decreasing | Unrated | [C++](./2277/B.cpp) |
 | [2277C](https://codeforces.com/problemset/problem/2277/C) | Edge Addeleting | Unrated | [C++](./2277/C.cpp) |
+| [2278A](https://codeforces.com/problemset/problem/2278/A) | Fraction and Six | Unrated |  |
+| [2278B](https://codeforces.com/problemset/problem/2278/B) | Stakes and Shapes | Unrated |  |
+| [2278C](https://codeforces.com/problemset/problem/2278/C) | Math and Physics | Unrated |  |
+| [2278D](https://codeforces.com/problemset/problem/2278/D) | Lock and Unlock | Unrated |  |
+| [2284A1](https://codeforces.com/problemset/problem/2284/A1) | 15K4JR3B (Easy Version) | Unrated | [C++](./2284/A1.cpp) |
+| [2284A2](https://codeforces.com/problemset/problem/2284/A2) | 15K4JR3B (Hard Version) | Unrated | [C++](./2284/A2.cpp) |
+| [2284B](https://codeforces.com/problemset/problem/2284/B) | Introduction to the Niche Internet | Unrated | [C++](./2284/B.cpp) |
+| [2284C1](https://codeforces.com/problemset/problem/2284/C1) | Disgusting + GCD (Constructive Version) | Unrated | [C++](./2284/C1.cpp) |
+| [2284C2](https://codeforces.com/problemset/problem/2284/C2) | Disgusting + GCD (Checker Version) | Unrated | [C++](./2284/C2.cpp) |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
