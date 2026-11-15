@@ -2,7 +2,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-### Solved: 448
+### Solved: 451
 
 | No. | Title | Rating | Solutions |
 |:---|:---|:---:|:---:|
@@ -406,6 +406,9 @@
 | [2284B](https://codeforces.com/problemset/problem/2284/B) | Introduction to the Niche Internet | Unrated | [C++](./2284/B.cpp) |
 | [2284C1](https://codeforces.com/problemset/problem/2284/C1) | Disgusting + GCD (Constructive Version) | Unrated | [C++](./2284/C1.cpp) |
 | [2284C2](https://codeforces.com/problemset/problem/2284/C2) | Disgusting + GCD (Checker Version) | Unrated | [C++](./2284/C2.cpp) |
+| [2285A](https://codeforces.com/problemset/problem/2285/A) | Composite Permutation | Unrated | [C++](./2285/A.cpp) |
+| [2285B](https://codeforces.com/problemset/problem/2285/B) | Diverse String | Unrated |  |
+| [2285C](https://codeforces.com/problemset/problem/2285/C) | Max Substitution | Unrated |  |
 | [103960A](https://codeforces.com/gym/103960/problem/A) | Finding Maximal Non-Trivial Monotones | Unrated |  |
 | [103960E](https://codeforces.com/gym/103960/problem/E) | Eliminating Ballons | Unrated |  |
 | [103960F](https://codeforces.com/gym/103960/problem/F) | Multidimensional Hangman | Unrated |  |
